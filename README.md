@@ -1,5 +1,11 @@
 ## Hi there 👋
+# I'm Borna Etminan
 
+## About me
+- 🎓 Student interested in programming and technology
+- 💻 Interested in software development
+- 📚 Always learning and experiencing new things
+- 
 <!--
 **Borna-Etminan/Borna-Etminan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
