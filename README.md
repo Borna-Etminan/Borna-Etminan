@@ -11,7 +11,7 @@
 ## 🛠 My skills
 - **Programming Languages:** Python🐍, Scratch 🎮
 - **Other Skills:** Ten-finger typing (Record: 45 WPM)⌨️
-- **Tools & Platforms:** GitHub 🔧, VS code, PyCharm
+- **Tools & Platforms:** GitHub🔧, VS code💻, PyCharm💻
 ---------------------------------------------------------------------------------------------------------------------------------------
 ## 📌 Achievements & Certificates
 - 🎓 [CS50’s Programming with Python – Harvard(2025)](https://cs50.harvard.edu/certificates/2be2f991-3d16-43bb-84ca-8f97a6787d58)- Python Basics, OOP, File I/O, Libraries, Unit Testing, Regular Expressions
