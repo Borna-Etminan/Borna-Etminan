@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I'm Borna Etminan
+# I'm Borna Etminan 
 ---------------------------------------------------------------------------------------------------------------------------------------
 ## 🧑‍💻 About me
 - 🎓 Student interested in programming and technology
