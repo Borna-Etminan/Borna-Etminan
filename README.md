@@ -19,8 +19,8 @@
 
 ----------------
 ## 📫 Contact me
-- ✉️ Email: [My Email](borna.etminan34@gmail.com)
-- 🔗 LinkedIn:[My LinkedIn]()  
+- ✉️ Email: borna.etminan34@gmail.com
+- 🔗 LinkedIn: 
 
 ⭐️ If you find my projects interesting, feel free to star or follow!⭐️
 
