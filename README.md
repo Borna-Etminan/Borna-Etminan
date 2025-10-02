@@ -16,7 +16,7 @@
 ## 📌 Achievements & Certificates
 - 🎓 [CS50’s Programming with Python – Harvard(2025)](https://cs50.harvard.edu/certificates/2be2f991-3d16-43bb-84ca-8f97a6787d58)- Python Basics, OOP, File I/O, Libraries, Unit Testing, Regular Expressions
 - 🎓 [Scratch Programming Certificate (2025)](./certificates/Scratch_certificate.jpg) – Interactive Games, Animations, Basic Programming Concepts
-- 🎓 [IBM Python for Data Science (2025)](./certificates/) – Data Analysis, Pandas, Numpy, Visualization, APIs
+- 🎓 [IBM Python for Data Science (2025)](./certificates/IBMDesign20251002-32-psfvmt.pdf) – Data Analysis, Pandas, Numpy, Visualization, APIs
 ----------------
 ## 📫 Contact me
 - ✉️ Email: borna.etminan34@gmail.com
