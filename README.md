@@ -4,13 +4,14 @@
 ## 🧑‍💻 About me
 - 🎓 Student interested in programming and technology
 - 💻 Interested in software development
+- 💻 Interested in data science
 - 📚 Always learning and experiencing new things
 - 🤖 Love making Artificial Intelligence (AI)
 - 🌟 Passionate about problem-solving and open-source contributions
 ----------------
 ## 🛠 My skills
 - **Programming Languages:** Python🐍, Scratch 🎮
-- **Other Skills:** Ten-finger typing (Record: 45 WPM)⌨️
+- **Other Skills:** Ten-finger typing (Record: 47 WPM)⌨️, ICDL Seven Skills💻
 - **Tools & Platforms:** GitHub🔧, VS code💻, PyCharm💻
 ----------------
 ## 📌 Achievements & Certificates
