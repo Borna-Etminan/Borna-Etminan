@@ -5,7 +5,7 @@
 - 🎓 Student interested in programming and technology
 - 💻 Interested in software development
 - 💻 Interested in data science
-- 📚 Always learning and experiencing new things
+- 📚 Always learning and experiencing new things 
 - 🤖 Love making Artificial Intelligence (AI)
 - 🌟 Passionate about problem-solving and open-source contributions
 ----------------
