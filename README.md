@@ -14,8 +14,8 @@
 - **Tools & Platforms:** GitHub🔧, CMD & PowerShell🔧, VS code💻, PyCharm💻 Jupyter💻
 ---
 ## 📌 Achievements & Certificates
-- 🎓 [CS50’s Programming with Python – Harvard (2025)](https://cs50.harvard.edu/certificates/2be2f991-3d16-43bb-84ca-8f97a6787d58) – Python Basics, OOP, File I/O, Libraries, Unit Testing, Regular Expressions  
-- 🎓 [Scratch Programming Certificate (2025)](./certificates/Scratch_certificate.jpg) – Interactive Games, Animations, Basic Programming Concepts  
+- 🎓 [CS50’s Programming with Python – Harvard (2025)Final Score: 100%](https://cs50.harvard.edu/certificates/2be2f991-3d16-43bb-84ca-8f97a6787d58) – Python Basics, OOP, File I/O, Libraries, Unit Testing, Regular Expressions  
+- 🎓 [Scratch Programming Certificate (2025)Final Score: 100%](./certificates/Scratch_certificate.jpg) – Interactive Games, Animations, Basic Programming Concepts  
 - 🎓 [IBM Python for Data Science (2025)](https://www.credly.com/badges/67ef610a-277b-42f0-a7ae-a37c9e268f68/public_url) – Data Analysis, Pandas, Numpy, Visualization, APIs  
 - 🎓 [IBM Data Analysis with Python (2025)](https://courses.yl-ptech.skillsnetwork.site/certificates/0d5f112a5a5b42adab689f53598b55ea) – Python for Data Analysis, Pandas, Numpy, Matplotlib, Seaborn, Data Cleaning & Visualization  
 - 🎓 [IBM Data Visualization with Python – Credly (2025)](https://courses.yl-ptech.skillsnetwork.site/certificates/9c4123c94ddb46009a5b30a339fafaa7) – Matplotlib, Seaborn, Plotly, Data Analysis, Dashboards  
