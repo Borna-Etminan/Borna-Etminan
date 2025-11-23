@@ -9,7 +9,7 @@
 - 🌟 Passionate about problem-solving and open-source contributions
 ---
 ## 🛠 My skills
-- **Programming Languages:** Python🐍, Scratch 🎮
+- **Programming Languages:** Python🐍, Scratch 🎮, SQLite 🗄️
 - **Other Skills:** Ten-finger typing (Record: 47 WPM)⌨️, ICDL Seven Skills💻
 - **Tools & Platforms:** GitHub🔧, CMD & PowerShell🔧, VS code💻, PyCharm💻 Jupyter💻
 ---
