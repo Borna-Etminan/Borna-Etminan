@@ -24,6 +24,7 @@
 ---
 ## 📫 Contact me
 - ✉️ Email: borna.etminan34@gmail.com
+- ✉️ Kaggle username: bornaetminan
 
 ⭐️ If you find my projects interesting, feel free to star or follow!⭐️
 
