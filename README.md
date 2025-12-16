@@ -22,6 +22,9 @@
 - 🎓 [IBM Data Visualization with Python (2025)-Final Score: 80%](https://courses.yl-ptech.skillsnetwork.site/certificates/9c4123c94ddb46009a5b30a339fafaa7) – Matplotlib, Seaborn, Plotly, Data Analysis, Dashboards  
 - 🎓 [IBM Machine Learning with Python (2025)-Final Score: 100%](https://courses.yl-ptech.skillsnetwork.site/certificates/213541ca87a643408844a9944c7c4c01) – Supervised & Unsupervised Learning, Regression, Classification, Clustering, Scikit-Learn, Model Evaluation
 ---
+## 🤖 codes on Kaggle
+- 🤖 [Deep Translate](https://www.kaggle.com/code/bornaetminan/notebook9feeac1524) - Automating translations with AI so language barriers don’t slow you down
+---
 ## 📫 Contact me
 - ✉️ Email: borna.etminan34@gmail.com
 - ✉️ Kaggle username: bornaetminan
