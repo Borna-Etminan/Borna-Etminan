@@ -10,7 +10,7 @@
 ---
 ## 🛠 My skills
 - **Programming Languages:** Python🐍, Scratch 🎮, SQLite 🗄️
-- **Other Skills:** Ten-finger typing (Record: 52 WPM)⌨️, ICDL Seven Skills💻
+- **Other Skills:** Ten-finger typing (Record: 54 WPM)⌨️, ICDL Seven Skills💻
 - **Tools & Platforms:** GitHub🔧, CMD & PowerShell🔧, VS code💻, PyCharm💻 Jupyter💻
 ---
 ## 📌 Achievements & Certificates
