@@ -23,11 +23,10 @@
 - 🎓 [IBM Machine Learning with Python (2025)-Final Score: 100%](https://courses.yl-ptech.skillsnetwork.site/certificates/213541ca87a643408844a9944c7c4c01) – Supervised & Unsupervised Learning, Regression, Classification, Clustering, Scikit-Learn, Model Evaluation
 ---
 ## 🤖 codes on Kaggle
-- 🤖 [Deep Translate](https://www.kaggle.com/code/bornaetminan/notebook9feeac1524) - Automating translations with AI so language barriers don’t slow you down
+- 🤖 [Deep Translate](https://www.kaggle.com/code/bornaetminan/notebook9feeac1524) - Automating translations with audio playback of the translated text and saving the translation to your desktop with more than 180 language with this program language barriers don’t slow you down
 ---
 ## 📫 Contact me
 - ✉️ Email: borna.etminan34@gmail.com
 - ✉️ Kaggle username: [bornaetminan](https://www.kaggle.com/bornaetminan)
 
 ⭐️ If you find my projects interesting, feel free to star or follow!⭐️
-
