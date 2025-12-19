@@ -24,6 +24,7 @@
 ---
 ## 🤖 codes on Kaggle
 - 🤖 [Deep Translate](https://www.kaggle.com/code/bornaetminan/notebook9feeac1524) - Automating translations with audio playback of the translated text and saving the translation to your desktop with more than 180 language, with this program language barriers don’t slow you down
+- 🤖 [QRcode Creator](https://www.kaggle.com/code/bornaetminan/qrcode) - Create a personal QR code for your site, accounts, and any link or text you want.
 ---
 ## 📫 Contact me
 - ✉️ Email: borna.etminan34@gmail.com
