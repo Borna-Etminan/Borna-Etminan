@@ -59,9 +59,9 @@
 
 🔗 [Kaggle Notebook](https://www.kaggle.com/code/bornaetminan/notebook9feeac1524)
 
-### 🔗 QR Code Creator
-- Generate QR codes for text, links, websites, or profiles  
-- Simple and fast Python script  
+### 🔗 Netflix TV shows & Movies dataset
+- Clean Dataset for Your Models
+- Netflix Movies and TV Shows 
 
 🔗 [Kaggle Notebook](https://www.kaggle.com/code/bornaetminan/qrcode)
 
