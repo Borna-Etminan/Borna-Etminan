@@ -63,7 +63,7 @@
 - Clean Dataset for Your Models
 - Netflix Movies and TV Shows 
 
-🔗 [Kaggle Notebook](https://www.kaggle.com/code/bornaetminan/qrcode)
+🔗 [Kaggle Notebook](https://www.kaggle.com/code/bornaetminan/netflix-data-cleanup-insights)
 
 ---
 
