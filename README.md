@@ -30,7 +30,7 @@
 - 📊 Kaggle  
 
 ### ⌨️ Other Skills
-- ⚡ Ten-finger typing (Record: **56 WPM**)  
+- ⚡ Ten-finger typing (Record: **57 WPM**)  
 - 🧾 ICDL Seven Skills  
 
 ### 🤝 Soft Skills
