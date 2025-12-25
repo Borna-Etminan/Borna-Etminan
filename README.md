@@ -10,6 +10,9 @@
 - 💻 Interested in data science
 - 📚 Always learning and experiencing new things 
 - 🌟 Passionate about problem-solving and open-source contributions
+- 🌍 Open Source & Collaboration
+  - Interested in contributing to **open-source Python projects**
+  - Open to collaboration and learning from the community  
 ---
 ## 🛠 My skills
 ### 🧑‍💻 Programming Languages
@@ -63,13 +66,7 @@
 - Clean Dataset for Your Models
 - Netflix Movies and TV Shows 
 
-🔗 [Kaggle Notebook](https://www.kaggle.com/code/bornaetminan/netflix-data-cleanup-insights)
-
----
-
-## 🌍 Open Source & Collaboration
-- Interested in contributing to **open-source Python projects**  
-- Open to collaboration and learning from the community  
+🔗 [Kaggle Notebook](https://www.kaggle.com/code/bornaetminan/netflix-data-cleanup-insights)  
 
 ---
 
