@@ -59,6 +59,7 @@ You can see all my great Projects and codes on my Kaggle acount:
 ## 📫 Contact me
 - ✉️ Email: borna.etminan34@gmail.com
 - ✉️ Kaggle username: [bornaetminan](https://www.kaggle.com/bornaetminan)
+- ✉️ X(Twitter) acount: [my acount](https://x.com/BornaEtminan)
 - 📘 Blog on Medium: [my acount](https://medium.com/@borna.etminan34)
 
 ⭐️ If you find my projects interesting, feel free to star or follow!⭐️
