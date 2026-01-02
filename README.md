@@ -1,8 +1,8 @@
 ## Hi there 👋
 # I'm Borna Etminan 
-🚀 **Python Developer & Data Science Enthusiast**  
-🎓 CS50 & IBM Certified | Automation & Machine Learning  
-🤖 Building practical tools with Python & Data
+🚀 **work with *Data Science | Machine Learning | Python | SQL***  
+🎓 Holder of international certificats from Harvard University, etc.
+🤖 Building practical tools with Python & Data & Models
 ---
 ## 🧑‍💻 About me
 - 🎓 Student interested in programming and technology
@@ -23,11 +23,11 @@
 ### 📊 Data Science & Machine Learning
 - 🧮 Pandas, NumPy  
 - 📈 Matplotlib, Seaborn 
-- 🤖 Scikit-learn  
-- 🧹 Data Cleaning & Visualization  
-- 🧠 Machine Learning: Regression, Classification, Clustering,  
+- 🤖 Scikit-learn
+- 🤖 XGBoost, eli5
+- 🧹 Data Cleaning & Visualization & Feature Engineering
+- 🧠 Machine Learning: Regression, Classification, Clustering
  
-
 ### 🛠 Tools & Platforms
 - 🔧 Git & GitHub  
 - 📊 Kaggle  
