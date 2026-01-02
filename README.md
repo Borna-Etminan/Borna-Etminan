@@ -41,7 +41,6 @@
 - 📚 Self-Learning  
 - 🔍 Analytical Thinking  
 - 🎯 Attention to Detail  
-
 ---
 ## 📌 Achievements & Certificates
 - 🎓 [CS50’s Programming with Python – Harvard (2025)-Final Score: 100%](https://cs50.harvard.edu/certificates/2be2f991-3d16-43bb-84ca-8f97a6787d58) – Python Basics, OOP, File I/O, Libraries, Unit Testing, Regex
@@ -53,25 +52,13 @@
 - 🎓 [IBM Machine Learning with Python (2025)-Final Score: 100%](https://courses.yl-ptech.skillsnetwork.site/certificates/213541ca87a643408844a9944c7c4c01) – Supervised & Unsupervised Learning, Regression, Classification, Clustering, Scikit-Learn, Model Evaluation
 ---
 ## 🚀 Featured Projects
-
-### 🌍 Deep Translate
-- Python automation tool supporting **180+ languages**  
-- Audio playback of translated text  
-- Automatic saving to desktop  
-- Removes language barriers efficiently  
-
-🔗 [Kaggle Notebook](https://www.kaggle.com/code/bornaetminan/notebook9feeac1524)
-
-### 🔗 Netflix TV shows & Movies dataset
-- Clean Dataset for Your Models
-- Netflix Movies and TV Shows 
-
-🔗 [Kaggle Notebook](https://www.kaggle.com/code/bornaetminan/netflix-data-cleanup-insights)  
-
+You can see all my great Projects and codes on my Kaggle acount:
+- [🔗My Kaggle acount Link](https://www.kaggle.com/bornaetminan)
+- [🔗My Kaggle codes(notbooks) Link](https://www.kaggle.com/bornaetminan/code)
 ---
-
 ## 📫 Contact me
 - ✉️ Email: borna.etminan34@gmail.com
 - ✉️ Kaggle username: [bornaetminan](https://www.kaggle.com/bornaetminan)
+- 📘 Blog on Medium: [my acount](https://medium.com/@borna.etminan34)
 
 ⭐️ If you find my projects interesting, feel free to star or follow!⭐️
