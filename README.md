@@ -27,7 +27,8 @@
 - 🤖 XGBoost, eli5
 - 🧹 Data Cleaning & Visualization & Feature Engineering
 - 🧠 Machine Learning: Regression, Classification, Clustering
- 
+- UI
+- - Tkinter
 ### 🛠 Tools & Platforms
 - 🔧 Git & GitHub  
 - 📊 Kaggle  
@@ -35,6 +36,11 @@
 ### ⌨️ Other Skills
 - ⚡ Ten-finger typing (Record: **61 WPM**)  
 - 🧾 ICDL Seven Skills  
+
+## 🔧IDE
+- 💻 Pycharm
+- 💻 VScode
+- 💻 Jypyter notebook
 
 ### 🤝 Soft Skills
 - 🧩 Problem Solving  
