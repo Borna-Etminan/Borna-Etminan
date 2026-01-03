@@ -27,8 +27,9 @@
 - 🤖 XGBoost, eli5
 - 🧹 Data Cleaning & Visualization & Feature Engineering
 - 🧠 Machine Learning: Regression, Classification, Clustering
-- UI
-- - Tkinter
+- 🎆 UI:
+  - 🎈 Tkinter
+
 ### 🛠 Tools & Platforms
 - 🔧 Git & GitHub  
 - 📊 Kaggle  
@@ -37,7 +38,7 @@
 - ⚡ Ten-finger typing (Record: **61 WPM**)  
 - 🧾 ICDL Seven Skills  
 
-## 🔧IDE
+### 🔧IDE
 - 💻 Pycharm
 - 💻 VScode
 - 💻 Jypyter notebook
