@@ -29,10 +29,12 @@
 - 🧠 Machine Learning: Regression, Classification, Clustering
 - 🎆 UI:
   - 🎈 Tkinter
-
+ 
 ### 🛠 Tools & Platforms
 - 🔧 Git & GitHub  
-- 📊 Kaggle  
+- 📊 Kaggle:
+  - Kaggle Tiers: [Expert](https://www.kaggle.com/bornaetminan)
+  - Kaggle code medals: [5 bronze](https://www.kaggle.com/bornaetminan/code)
 
 ### ⌨️ Other Skills
 - ⚡ Ten-finger typing (Record: **61 WPM**)  
