@@ -34,7 +34,7 @@
 - 🔧 Git & GitHub  
 - 📊 Kaggle:
   - Kaggle Tiers: [Expert](https://www.kaggle.com/bornaetminan)
-  - Kaggle code medals: [5 bronze](https://www.kaggle.com/bornaetminan/code)
+  - Kaggle code medals: [6 bronze](https://www.kaggle.com/bornaetminan/code)
 
 ### ⌨️ Other Skills
 - ⚡ Ten-finger typing (Record: **61 WPM**)  
