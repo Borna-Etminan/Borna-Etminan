@@ -42,6 +42,7 @@
 
 ### 🔧IDE
 - 💻 Pycharm
+- 💻 Spyder
 - 💻 VScode
 - 💻 Jypyter notebook
 
