@@ -6,13 +6,10 @@
 ---
 ## 🧑‍💻 About me
 - 🎓 Student interested in programming and technology
-- 🤖 Love building automations
 - 💻 Interested in data science
 - 📚 Always learning and experiencing new things 
 - 🌟 Passionate about problem-solving and open-source contributions
-- 🌍 Open Source & Collaboration
-  - Interested in contributing to **open-source Python projects**
-  - Open to collaboration and learning from the community  
+- 🌍 Love projects: Open Source & Collaboration  
 ---
 ## 🛠 My skills
 ### 🧑‍💻 Programming Languages
@@ -20,7 +17,16 @@
 - 🎮 Scratch  
 - 🗄️ SQLite  
 
-### 📊 Data Science & Machine Learning
+### 🤖 AI skills
+- 🗄️ Work with *Databases*
+- 🎲 Data Science
+- 🗂 Data Analysis
+- 🧹 Data Cleaning
+- 📈 Feature Engineering
+- 📊 Data Visualization
+- 🧠 Machine Learning
+
+### 📊 Specialized libraries for Data Science & ML & Python
 - 🧮 Pandas, NumPy  
 - 📈 Matplotlib, Seaborn 
 - 🤖 Scikit-learn
@@ -31,7 +37,10 @@
   - 🎈 Tkinter
  
 ### 🛠 Tools & Platforms
-- 🔧 Git & GitHub  
+- 🔧 Git & GitHub
+- 📗 Medium
+- 📚 Khan academy
+- 📚IBM skills build
 - 📊 Kaggle:
   - Kaggle Tiers: [Expert](https://www.kaggle.com/bornaetminan)
   - Kaggle code medals: [7 bronze](https://www.kaggle.com/bornaetminan/code)
@@ -50,7 +59,6 @@
 - 🧩 Problem Solving  
 - 📚 Self-Learning  
 - 🔍 Analytical Thinking  
-- 🎯 Attention to Detail  
 ---
 ## 📌 Achievements & Certificates
 - 🎓 [CS50’s Programming with Python – Harvard (2025)-Final Score: 100%](https://cs50.harvard.edu/certificates/2be2f991-3d16-43bb-84ca-8f97a6787d58) – Python Basics, OOP, File I/O, Libraries, Unit Testing, Regex
@@ -68,8 +76,8 @@ You can see all my great Projects and codes on my Kaggle acount:
 ---
 ## 📫 Contact me
 - ✉️ Email: borna.etminan34@gmail.com
-- ✉️ Kaggle username: [bornaetminan](https://www.kaggle.com/bornaetminan)
-- ✉️ X(Twitter) acount: [my acount](https://x.com/BornaEtminan)
-- 📘 Blog on Medium: [my acount](https://medium.com/@borna.etminan34)
+- ✉️ Kaggle username: https://www.kaggle.com/bornaetminan
+- ✉️ X(Twitter) acount: https://x.com/BornaEtminan
+- 📘 Blog on Medium: https://medium.com/@borna.etminan34
 
 ⭐️ If you find my projects interesting, feel free to star or follow!⭐️
