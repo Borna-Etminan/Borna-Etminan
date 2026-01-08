@@ -37,7 +37,7 @@
   - Kaggle code medals: [7 bronze](https://www.kaggle.com/bornaetminan/code)
 
 ### ⌨️ Other Skills
-- ⚡ Ten-finger typing (Record: **61 WPM**)  
+- ⚡ Ten-finger typing (Record: **62 WPM**)  
 - 🧾 ICDL Seven Skills  
 
 ### 🔧IDE
