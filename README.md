@@ -17,7 +17,7 @@
 - 🎮 Scratch  
 - 🗄️ SQLite  
 
-### 🤖 AI skills
+### 🤖 AI & Special skills
 - 🗄️ Work with *Databases*
 - 🎲 Data Science
 - 🗂 Data Analysis
@@ -25,6 +25,9 @@
 - 📈 Feature Engineering
 - 📊 Data Visualization
 - 🧠 Machine Learning
+- 🧠 Deep Learning
+- 🪛 Electronics
+- ⌨️ Professional Prompter
 
 ### 📊 Specialized libraries for Data Science & ML & Python
 - 🧮 Pandas, NumPy  
@@ -46,7 +49,7 @@
   - Kaggle code medals: [7 bronze](https://www.kaggle.com/bornaetminan/code)
 
 ### ⌨️ Other Skills
-- ⚡ Ten-finger typing (Record: **62 WPM**)  
+- ⚡ Ten-finger typing (Record: **63 WPM**)  
 - 🧾 ICDL Seven Skills  
 
 ### 🔧IDE
