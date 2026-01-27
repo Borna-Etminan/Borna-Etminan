@@ -25,6 +25,7 @@
 - 📈 Feature Engineering
 - 📊 Data Visualization
 - 🧠 Machine Learning
+- 📈 ML Explainability
 - 🧠 Deep Learning
 - 🗜 Electronics
 - ⌨️ Professional Prompting
