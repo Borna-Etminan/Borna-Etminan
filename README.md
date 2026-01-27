@@ -27,7 +27,7 @@
 - 🧠 Machine Learning
 - 🧠 Deep Learning
 - 🪛 Electronics
-- ⌨️ Professional Prompter
+- ⌨️ Professional Prompting
 
 ### 📊 Specialized libraries for Data Science & ML & Python
 - 🧮 Pandas, NumPy  
