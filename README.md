@@ -46,8 +46,11 @@
 - 📚 Khan academy
 - 📚IBM skills build
 - 📊 Kaggle:
-  - Kaggle Tiers: [Expert](https://www.kaggle.com/bornaetminan)
-  - Kaggle code medals: [7 bronze](https://www.kaggle.com/bornaetminan/code)
+  - Kaggle Tiers:
+    - [Notebook Expert](https://www.kaggle.com/bornaetminan)
+    - [Dataset Expert](https://www.kaggle.com/bornaetminan)
+  - Kaggle code medals: [8 bronze](https://www.kaggle.com/bornaetminan/code)
+  - Kaggle dataset medals: [3 bronze](https://www.kaggle.com/bornaetminan/)
 
 ### ⌨️ Other Skills
 - ⚡ Ten-finger typing (Record: **63 WPM**)  
