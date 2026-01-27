@@ -24,7 +24,10 @@
 - 🧹 Data Cleaning
 - 📈 Feature Engineering
 - 📊 Data Visualization
-- 🧠 Machine Learning
+- 🧠 Machine Learning:
+  - Regression
+  - Classification
+  - Clustering
 - 📈 ML Explainability
 - 🧠 Deep Learning
 - 🗜 Electronics
@@ -34,9 +37,6 @@
 - 🧮 Pandas, NumPy  
 - 📈 Matplotlib, Seaborn 
 - 🤖 Scikit-learn
-- 🤖 XGBoost, eli5
-- 🧹 Data Cleaning & Visualization & Feature Engineering
-- 🧠 Machine Learning: Regression, Classification, Clustering
 - 🎆 UI:
   - 🎈 Tkinter
  
