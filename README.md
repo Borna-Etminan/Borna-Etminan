@@ -26,7 +26,7 @@
 - 📊 Data Visualization
 - 🧠 Machine Learning
 - 🧠 Deep Learning
-- 🪛 Electronics
+- 🗜 Electronics
 - ⌨️ Professional Prompting
 
 ### 📊 Specialized libraries for Data Science & ML & Python
