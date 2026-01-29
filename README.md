@@ -65,7 +65,8 @@
 ### 🤝 Soft Skills
 - 🧩 Problem Solving  
 - 📚 Self-Learning  
-- 🔍 Analytical Thinking  
+- 🔍 Analytical Thinking
+- 💪 Growth in unstable conditions
 ---
 ## 📌 Achievements & Certificates
 - 🎓 [CS50’s Programming with Python – Harvard (2025)-Final Score: 100%](https://cs50.harvard.edu/certificates/2be2f991-3d16-43bb-84ca-8f97a6787d58) – Python Basics, OOP, File I/O, Libraries, Unit Testing, Regex
