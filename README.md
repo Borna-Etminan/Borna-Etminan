@@ -34,39 +34,41 @@
 - ⌨️ Professional Prompting
 
 ### 📊 Specialized libraries for Data Science & ML & Python
-- 🧮 Pandas, NumPy  
-- 📈 Matplotlib, Seaborn 
-- 🤖 Scikit-learn
+- 🧮 Pandas
+- 🧮 NumPy  
+- 📈 Matplotlib
+- 📈 Seaborn
+- 🤖 Scikit-Learn
 - 🎆 UI:
   - 🎈 Tkinter
  
 ### 🛠 Tools & Platforms
 - 🔧 Git & GitHub
 - 📗 Medium
-- 📚 Khan academy
-- 📚IBM skills build
+- 📚 Khan Academy
+- 📚IBM Skills Build
 - 📊 Kaggle:
   - Kaggle Tiers:
     - [Notebook Expert](https://www.kaggle.com/bornaetminan)
     - [Dataset Expert](https://www.kaggle.com/bornaetminan)
-  - Kaggle code medals: [10 bronze](https://www.kaggle.com/bornaetminan/code)
-  - Kaggle dataset medals: [3 bronze](https://www.kaggle.com/bornaetminan/)
+  - Kaggle Code Medals: [10 Bronze](https://www.kaggle.com/bornaetminan/code)
+  - Kaggle Dataset Medals: [3 Bronze](https://www.kaggle.com/bornaetminan/)
 
 ### ⌨️ Other Skills
-- ⚡ Ten-finger typing (Record: **65 WPM**)  
+- ⚡ Ten-Finger Typing (Record: **65 WPM**)  
 - 🧾 ICDL Seven Skills  
 
 ### 🔧IDE
 - 💻 Pycharm
 - 💻 Spyder
 - 💻 VScode
-- 💻 Jypyter notebook
+- 💻 Jypyter Notebook
 
 ### 🤝 Soft Skills
 - 🧩 Problem Solving  
 - 📚 Self-Learning  
 - 🔍 Analytical Thinking
-- 💪 Growth in unstable conditions
+- 💪 Growth In Unstable Conditions
 ---
 ## 📌 Achievements & Certificates
 - 🎓 [CS50’s Programming with Python – Harvard (2025)-Final Score: 100%](https://cs50.harvard.edu/certificates/2be2f991-3d16-43bb-84ca-8f97a6787d58) – Python Basics, OOP, File I/O, Libraries, Unit Testing, Regex
