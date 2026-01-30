@@ -53,7 +53,7 @@
   - Kaggle dataset medals: [3 bronze](https://www.kaggle.com/bornaetminan/)
 
 ### ⌨️ Other Skills
-- ⚡ Ten-finger typing (Record: **63 WPM**)  
+- ⚡ Ten-finger typing (Record: **65 WPM**)  
 - 🧾 ICDL Seven Skills  
 
 ### 🔧IDE
