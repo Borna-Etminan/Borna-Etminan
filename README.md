@@ -63,6 +63,7 @@
 - 💻 Spyder
 - 💻 VScode
 - 💻 Jypyter Notebook
+- 💻 Kaggle Notebook
 
 ### 🤝 Soft Skills
 - 🧩 Problem Solving  
