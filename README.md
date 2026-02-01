@@ -51,7 +51,7 @@
   - Kaggle Tiers:
     - [Notebook Expert](https://www.kaggle.com/bornaetminan)
     - [Dataset Expert](https://www.kaggle.com/bornaetminan)
-  - Kaggle Code Medals: [10 Bronze](https://www.kaggle.com/bornaetminan/code)
+  - Kaggle Code Medals: [11 Bronze](https://www.kaggle.com/bornaetminan/code)
   - Kaggle Dataset Medals: [3 Bronze](https://www.kaggle.com/bornaetminan/)
 
 ### ⌨️ Other Skills
@@ -70,6 +70,7 @@
 - 📚 Self-Learning  
 - 🔍 Analytical Thinking
 - 💪 Growth In Unstable Conditions
+
 ---
 ## 📌 Achievements & Certificates
 - 🎓 [CS50’s Programming with Python – Harvard (2025)-Final Score: 100%](https://cs50.harvard.edu/certificates/2be2f991-3d16-43bb-84ca-8f97a6787d58) – Python Basics, OOP, File I/O, Libraries, Unit Testing, Regex
