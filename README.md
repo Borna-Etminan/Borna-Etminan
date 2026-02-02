@@ -91,6 +91,6 @@ You can see all my great Projects and codes on my Kaggle acount:
 - ✉️ Email: borna.etminan34@gmail.com
 - ✉️ Kaggle username: https://www.kaggle.com/bornaetminan
 - ✉️ X(Twitter) acount: https://x.com/BornaEtminan
-- 📘 Blog on Medium: https://substack.com/@bornaetminan
+- 📘 Blog on Substack: https://substack.com/@bornaetminan
 
 ⭐️ If you find my projects interesting, feel free to star or follow!⭐️
