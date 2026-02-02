@@ -44,7 +44,7 @@
  
 ### 🛠 Tools & Platforms
 - 🔧 Git & GitHub
-- 📗 Medium
+- 📗 Substack
 - 📚 Khan Academy
 - 📚IBM Skills Build
 - 📊 Kaggle:
