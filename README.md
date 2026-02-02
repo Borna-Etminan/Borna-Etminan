@@ -64,6 +64,7 @@
 - 💻 VScode
 - 💻 Jypyter Notebook
 - 💻 Kaggle Notebook
+- 💻 Google Colab
 
 ### 🤝 Soft Skills
 - 🧩 Problem Solving  
