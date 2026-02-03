@@ -82,6 +82,9 @@
 - 🎓 [IBM Data Analysis with Python (2025)-Final Score: 93%](https://courses.yl-ptech.skillsnetwork.site/certificates/0d5f112a5a5b42adab689f53598b55ea) – Pandas, Numpy, Matplotlib, Seaborn, Data Cleaning & Visualization  
 - 🎓 [IBM Data Visualization with Python (2025)-Final Score: 80%](https://courses.yl-ptech.skillsnetwork.site/certificates/9c4123c94ddb46009a5b30a339fafaa7) – Matplotlib, Seaborn, Plotly, Data Analysis, Dashboards  
 - 🎓 [IBM Machine Learning with Python (2025)-Final Score: 100%](https://courses.yl-ptech.skillsnetwork.site/certificates/213541ca87a643408844a9944c7c4c01) – Regression, Classification, Clustering, Scikit-Learn
+- 🎓 [Kaggle Intro to Machine Learning (2025)-Final Score: 100%](https://www.kaggle.com/learn/certification/bornaetminan/intro-to-machine-learning) – Model Validation, Decision Trees, Random Forests, Basic Feature Engineering
+- 🎓 [Kaggle Intermediate Machine Learning (2025)-Final Score: 100%](https://www.kaggle.com/learn/certification/bornaetminan/intermediate-machine-learning) – Missing Values,  Pipelines, Cross-Validation, XGBoost
+- 🎓 [Kaggle Machine Learning Explanability (2026)-Final Score: 100%](https://www.kaggle.com/learn/certification/bornaetminan/machine-learning-explainability) – Model Interpretability, SHAP Values, Permutation Importance
 ---
 ## 🚀 Featured Projects
 You can see all my great Projects and codes on my Kaggle acount:
