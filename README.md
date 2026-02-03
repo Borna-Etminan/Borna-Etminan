@@ -39,8 +39,8 @@
 - 📈 Matplotlib
 - 📈 Seaborn
 - 🤖 Scikit-Learn
-- 🎆 UI:
-  - 🎈 Tkinter
+- 🤖 Tensorflow
+- 🎆 Tkinter
  
 ### 🛠 Tools & Platforms
 - 🔧 Git & GitHub
