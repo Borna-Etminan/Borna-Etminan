@@ -31,7 +31,7 @@
 - 📈 ML Explainability
 - 🧠 Deep Learning
 - 🗜 Electronics
-- ⌨️ Professional Prompting
+- ⌨️ Prompt Engineering
 
 ### 📊 Specialized libraries for Data Science & ML & Python
 - 🧮 Pandas
