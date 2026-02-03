@@ -81,7 +81,7 @@
 - 🎓 [IBM Python for Data Science (2025)-Final Score: 96%](https://courses.yl-ptech.skillsnetwork.site/certificates/009cb35d792540259af6b25e960230dd) – Data Analysis, Pandas, Numpy, Visualization, APIs  
 - 🎓 [IBM Data Analysis with Python (2025)-Final Score: 93%](https://courses.yl-ptech.skillsnetwork.site/certificates/0d5f112a5a5b42adab689f53598b55ea) – Pandas, Numpy, Matplotlib, Seaborn, Data Cleaning & Visualization  
 - 🎓 [IBM Data Visualization with Python (2025)-Final Score: 80%](https://courses.yl-ptech.skillsnetwork.site/certificates/9c4123c94ddb46009a5b30a339fafaa7) – Matplotlib, Seaborn, Plotly, Data Analysis, Dashboards  
-- 🎓 [IBM Machine Learning with Python (2025)-Final Score: 100%](https://courses.yl-ptech.skillsnetwork.site/certificates/213541ca87a643408844a9944c7c4c01) – Supervised & Unsupervised Learning, Regression, Classification, Clustering, Scikit-Learn, Model Evaluation
+- 🎓 [IBM Machine Learning with Python (2025)-Final Score: 100%](https://courses.yl-ptech.skillsnetwork.site/certificates/213541ca87a643408844a9944c7c4c01) – Regression, Classification, Clustering, Scikit-Learn
 ---
 ## 🚀 Featured Projects
 You can see all my great Projects and codes on my Kaggle acount:
