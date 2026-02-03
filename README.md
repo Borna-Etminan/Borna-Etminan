@@ -41,7 +41,7 @@
 - 🤖 Scikit-Learn
 - 🤖 Tensorflow
 - 🎆 Tkinter
-- 🗄️ Sqlite3
+- 🗂 Sqlite3
  
 ### 🛠 Tools & Platforms
 - 🔧 Git & GitHub
