@@ -30,7 +30,6 @@
   - Clustering
 - 📈 ML Explainability
 - 🧠 Deep Learning
-- 🗜 Electronics
 - ⌨️ Prompt Engineering
 
 ### 📊 Specialized libraries for Data Science & ML & Python
@@ -95,7 +94,7 @@ You can see all my great Projects and codes on my Kaggle acount:
 ## 📫 Contact me
 - ✉️ Email: borna.etminan34@gmail.com
 - ✉️ Kaggle username: https://www.kaggle.com/bornaetminan
-- ✉️ X(Twitter) acount: https://x.com/BornaEtminan
+- ✉️ X acount: https://x.com/BornaEtminan
 - 📘 Blog on Substack: https://substack.com/@bornaetminan
 
 ⭐️ If you find my projects interesting, feel free to star or follow!⭐️
