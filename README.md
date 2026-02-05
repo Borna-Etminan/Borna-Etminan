@@ -1,6 +1,6 @@
 ## Hi there 👋
 # I'm Borna Etminan 
-- 🚀 **I work *Data Science | Machine Learning | Deep Learning | Python | SQL| Electronics***  
+- 🚀 **I work *Data Science | Machine Learning | Deep Learning | Python | SQL***  
 - 🎓 Holder of international certificats from Harvard University, etc.
 - 🤖 Building practical tools with Python & Data & Models
 ---
