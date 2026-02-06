@@ -30,6 +30,7 @@
   - Clustering
 - 📈 ML Explainability
 - 🧠 Deep Learning
+  - Neural Networks
 - ⌨️ Prompt Engineering
 
 ### 📊 Specialized libraries for Data Science & ML & Python
@@ -80,7 +81,7 @@
 - 🎓 [Kaggle Intro to Machine Learning (2025)-Final Score: 100%](https://www.kaggle.com/learn/certification/bornaetminan/intro-to-machine-learning) – Decision Trees, Random Forests, Basic Feature Engineering
 - 🎓 [Kaggle Intermediate Machine Learning (2025)-Final Score: 100%](https://www.kaggle.com/learn/certification/bornaetminan/intermediate-machine-learning) – Missing Values,  Pipelines, Cross-Validation, XGBoost
 - 🎓 [Kaggle Machine Learning Explanability (2026)-Final Score: 100%](https://www.kaggle.com/learn/certification/bornaetminan/machine-learning-explainability) – Model Interpretability, SHAP Values, Permutation Importance
-- 🎓 [Kaggle intro to Deep Learning (2026)-Final Score: 100%](https://www.kaggle.com/learn/certification/bornaetminan/intro-to-deep-learning) - Neural Networks, Overfitting & Underfitting, Dropout, Early Stopping, TensorFlow
+- 🎓 [Kaggle intro to Deep Learning (2026)-Final Score: 100%](https://www.kaggle.com/learn/certification/bornaetminan/intro-to-deep-learning) - NN, Overfitting & Underfitting, Dropout, Early Stopping, TensorFlow
 - 🎓 [IBM Python for Data Science (2025)-Final Score: 96%](https://courses.yl-ptech.skillsnetwork.site/certificates/009cb35d792540259af6b25e960230dd) – Data Analysis, Pandas, Numpy, Visualization, APIs  
 - 🎓 [IBM Data Analysis with Python (2025)-Final Score: 93%](https://courses.yl-ptech.skillsnetwork.site/certificates/0d5f112a5a5b42adab689f53598b55ea) – Pandas, Numpy, Matplotlib, Seaborn, Data Cleaning & Visualization  
 - 🎓 [IBM Data Visualization with Python (2025)-Final Score: 80%](https://courses.yl-ptech.skillsnetwork.site/certificates/9c4123c94ddb46009a5b30a339fafaa7) – Matplotlib, Seaborn, Plotly, Data Analysis, Dashboards  
