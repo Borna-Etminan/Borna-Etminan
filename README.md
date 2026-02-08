@@ -53,7 +53,7 @@
     - [Notebook Expert](https://www.kaggle.com/bornaetminan)
     - [Dataset Expert](https://www.kaggle.com/bornaetminan)
   - Kaggle Code Medals: [16 Bronze](https://www.kaggle.com/bornaetminan/code)
-  - Kaggle Dataset Medals: [3 Bronze](https://www.kaggle.com/bornaetminan/)
+  - Kaggle Dataset Medals: [3 Bronze](https://www.kaggle.com/bornaetminan/datasets)
 
 ### ⌨️ Other Skills
 - ⚡ Ten-Finger Typing (Record: **65 WPM**)  
