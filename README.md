@@ -66,6 +66,7 @@
 - 💻 Jypyter Notebook
 - 💻 Kaggle Notebook
 - 💻 Google Colab
+- 💻 IBM SkillsBuild Labs
 
 ### 🤝 Soft Skills
 - 🧩 Problem Solving  
