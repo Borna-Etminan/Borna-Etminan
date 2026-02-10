@@ -63,10 +63,11 @@
 - 💻 Pycharm
 - 💻 Spyder
 - 💻 VScode
-- 💻 Jypyter Notebook
+- 💻 Jupyter Notebook
 - 💻 Kaggle Notebook
 - 💻 Google Colab
-- 💻 IBM SkillsBuild Labs
+- 💻 IBM SkillsBuild Jupyter Lab
+- 💻 Harvard CS50 VScode 
 
 ### 🤝 Soft Skills
 - 🧩 Problem Solving  
