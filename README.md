@@ -31,6 +31,7 @@
 - 📈 ML Explainability
 - 🧠 Deep Learning
   - Neural Networks
+  - CNNs
 - ⌨️ Prompt Engineering
 
 ### 📊 Specialized libraries for Data Science & ML & Python
