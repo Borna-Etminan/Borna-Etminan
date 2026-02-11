@@ -90,10 +90,10 @@
 - 🎓 [IBM Machine Learning with Python (2025)-Final Score: 100%](https://courses.yl-ptech.skillsnetwork.site/certificates/213541ca87a643408844a9944c7c4c01) – Regression, Classification, Clustering, Scikit-Learn
 
 ---
-## 🚀 Featured Projects
-You can see all my great Projects and codes on my Kaggle acount:
-- [🔗My Kaggle acount Link](https://www.kaggle.com/bornaetminan)
-- [🔗My Kaggle codes(notbooks) Link](https://www.kaggle.com/bornaetminan/code)
+## 📗 My Blog's
+You can see all my Blog's on my Substack acount and a summary of my Blog's on my Blog's repo:
+- [Blogs documents on Github repo](https://github.com/Borna-Etminan/Blog-s)
+- [All of my Blog's on Substack](https://substack.com/@bornaetminan)
 ---
 ## 📫 Contact me
 - ✉️ Email: borna.etminan34@gmail.com
