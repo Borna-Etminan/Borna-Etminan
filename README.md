@@ -44,7 +44,7 @@
 - 🗂 Sqlite3
  
 ### 🛠 Tools & Platforms
-- 🔧 Git & GitHub
+- 🔧 GitHub & GitHub Desktop
 - 📗 Substack
 - 📚 Khan Academy
 - 📚IBM Skills Build
@@ -90,10 +90,17 @@
 - 🎓 [IBM Machine Learning with Python (2025)-Final Score: 100%](https://courses.yl-ptech.skillsnetwork.site/certificates/213541ca87a643408844a9944c7c4c01) – Regression, Classification, Clustering, Scikit-Learn
 
 ---
-## 📗 My Blog's
+## 📗 Blog's
 You can see all my Blog's on my Substack acount and a summary of my Blog's on my Blog's repo:
-- [Blogs documents on Github repo](https://github.com/Borna-Etminan/Blog-s)
-- [All of my Blog's on Substack](https://substack.com/@bornaetminan)
+- [Blog's documents on Github repo](https://github.com/Borna-Etminan/Blog-s)
+- [All of Blog's on Substack](https://substack.com/@bornaetminan)
+
+---
+## 📰 Dataset's
+You can see all my Dataset's on my Kaggle acount and a summary of my Dataset's on my Datasets repo:
+- [Dataset's documnts on Github repo](https://github.com/Borna-Etminan/Dataset-s)
+- [All of Dataset's on Kaggle](https://www.kaggle.com/bornaetminan/datasets)
+
 ---
 ## 📫 Contact me
 - ✉️ Email: borna.etminan34@gmail.com
