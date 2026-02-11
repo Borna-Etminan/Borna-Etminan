@@ -53,7 +53,7 @@
   - Kaggle Tiers:
     - [Notebook Expert](https://www.kaggle.com/bornaetminan)
     - [Dataset Expert](https://www.kaggle.com/bornaetminan)
-  - Kaggle Code Medals: [17 Bronze](https://www.kaggle.com/bornaetminan/code)
+  - Kaggle Code Medals: [18 Bronze](https://www.kaggle.com/bornaetminan/code)
   - Kaggle Dataset Medals: [3 Bronze](https://www.kaggle.com/bornaetminan/datasets)
 
 ### ⌨️ Other Skills
