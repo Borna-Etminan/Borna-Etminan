@@ -33,6 +33,7 @@
   - Neural Networks
   - CNNs
   - RNNs
+  - Autoecoders
 - ⌨️ Prompt Engineering
 
 ### 📊 Specialized libraries for Data Science & ML & Python
@@ -90,6 +91,7 @@
 - 🎓 [IBM Data Analysis with Python (2025)-Final Score: 93%](https://courses.yl-ptech.skillsnetwork.site/certificates/0d5f112a5a5b42adab689f53598b55ea) – Pandas, Numpy, Matplotlib, Seaborn, Data Cleaning & Visualization  
 - 🎓 [IBM Data Visualization with Python (2025)-Final Score: 80%](https://courses.yl-ptech.skillsnetwork.site/certificates/9c4123c94ddb46009a5b30a339fafaa7) – Matplotlib, Seaborn, Plotly, Data Analysis, Dashboards  
 - 🎓 [IBM Machine Learning with Python (2025)-Final Score: 100%](https://courses.yl-ptech.skillsnetwork.site/certificates/213541ca87a643408844a9944c7c4c01) – Regression, Classification, Clustering, Scikit-Learn
+- 🎓 [IBM Deep Learning with TensorFlow (2026)-Final Score: 95%](https://courses.yl-ptech.skillsnetwork.site/certificates/c0a6fba662be4e45a545ab2b959b1066) - TensorFlow, NN, CNNs, RNNs, RBMs, Autoecoders
 
 ---
 ## 📗 Blog's
