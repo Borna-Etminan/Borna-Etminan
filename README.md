@@ -32,6 +32,7 @@
 - 🧠 Deep Learning
   - Neural Networks
   - CNNs
+  - RNNs
 - ⌨️ Prompt Engineering
 
 ### 📊 Specialized libraries for Data Science & ML & Python
