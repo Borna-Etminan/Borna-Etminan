@@ -48,6 +48,7 @@
  
 ### 🛠 Tools & Platforms
 - 🔧 GitHub & GitHub Desktop
+- ⚙ Git
 - 📗 Substack
 - 📚 Khan Academy
 - 📚IBM Skills Build
@@ -55,7 +56,7 @@
   - Kaggle Tiers:
     - [Notebook Expert](https://www.kaggle.com/bornaetminan)
     - [Dataset Expert](https://www.kaggle.com/bornaetminan)
-  - Kaggle Code Medals: [19 Bronze](https://www.kaggle.com/bornaetminan/code)
+  - Kaggle Code Medals: [21 Bronze](https://www.kaggle.com/bornaetminan/code)
   - Kaggle Dataset Medals: [3 Bronze](https://www.kaggle.com/bornaetminan/datasets)
 
 ### ⌨️ Other Skills
