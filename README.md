@@ -82,7 +82,7 @@
 - 💻 Command Line In Jupyter Notebooks
 - 💻 Pycharm, VScode and Harvard VScode Terminal
 - 
-## 🖥️ OS
+### 🖥️ OS
 - 💻 Windows
 - 🐧 Linux
 
