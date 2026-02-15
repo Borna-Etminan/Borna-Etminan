@@ -15,7 +15,8 @@
 ### 🧑‍💻 Programming Languages
 - 🐍 Python  
 - 🎮 Scratch  
-- 🗄️ SQLite  
+- 🗄️ SQLite
+- 🐚 BASH  
 
 ### 🤖 AI & Special skills
 - 🗄️ Work with *Databases*
@@ -35,6 +36,7 @@
   - RNNs
   - Autoecoders
 - ⌨️ Prompt Engineering
+- ⚙ Version Control Mindset
 
 ### 📊 Specialized libraries for Data Science & ML & Python
 - 🧮 Pandas
@@ -72,6 +74,17 @@
 - 💻 Google Colab
 - 💻 IBM SkillsBuild Jupyter Lab
 - 💻 Harvard CS50 VScode 
+
+### 🔧CLI
+- 💻 CMD
+- 💻 PowerShell
+- 💻 Git Bash
+- 💻 Command Line In Jupyter Notebooks
+- 💻 Pycharm, VScode and Harvard VScode Terminal
+- 
+## 🖥️ OS
+- 💻 Windows
+- 🐧 Linux
 
 ### 🤝 Soft Skills
 - 🧩 Problem Solving  
