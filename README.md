@@ -107,6 +107,12 @@ You can see all my Dataset's on my Kaggle acount and a summary of my Dataset's o
 - [All of Dataset's on Kaggle](https://www.kaggle.com/bornaetminan/datasets)
 
 ---
+## 📜 Guides
+You can see my Guides here:
+- [Professional Git guide](https://github.com/Borna-Etminan/professional-Git-guide)
+  - Most important commands of git you need
+  - very clean and easy to now even for who didn't work Git at past
+---
 ## 📫 Contact me
 - ✉️ Email: borna.etminan34@gmail.com
 - ✉️ Kaggle username: https://www.kaggle.com/bornaetminan
