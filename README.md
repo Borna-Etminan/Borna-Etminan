@@ -58,7 +58,7 @@
   - Kaggle Tiers:
     - [Notebook Expert](https://www.kaggle.com/bornaetminan)
     - [Dataset Expert](https://www.kaggle.com/bornaetminan)
-  - Kaggle Code Medals: [21 Bronze](https://www.kaggle.com/bornaetminan/code)
+  - Kaggle Code Medals: [23 Bronze](https://www.kaggle.com/bornaetminan/code)
   - Kaggle Dataset Medals: [3 Bronze](https://www.kaggle.com/bornaetminan/datasets)
 
 ### ⌨️ Other Skills
@@ -81,10 +81,10 @@
 - 💻 Git Bash
 - 💻 Command Line In Jupyter Notebooks
 - 💻 Pycharm, VScode and Harvard VScode Terminal
-- 
+- 💻 Work with .sh files
+
 ### 🖥️ OS
 - 💻 Windows
-- 🐧 Linux
 
 ### 🤝 Soft Skills
 - 🧩 Problem Solving  
