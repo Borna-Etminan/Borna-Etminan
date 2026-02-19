@@ -81,7 +81,7 @@
 - 💻 Git Bash
 - 💻 Command Line In Jupyter Notebooks
 - 💻 Pycharm, VScode and Harvard VScode Terminal
-- 💻 Work with **.sh** files
+- 💻 Work with **.sh** and **.bat** files
 
 ### 🖥️ OS
 - 💻 Windows
