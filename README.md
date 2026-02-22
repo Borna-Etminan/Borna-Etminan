@@ -123,7 +123,7 @@ You can see all my Dataset's on my Kaggle acount and a summary of my Dataset's o
 ---
 ## 📜 Guides
 You can see my Guides here:
-- [Professional Git guide](https://github.com/Borna-Etminan/professional-Git-guide)
+- [Professional Git guide](https://github.com/Borna-Etminan/Guides)
   - Most important commands of git you need
   - very clean and easy to now even for who didn't work Git at past
 ---
