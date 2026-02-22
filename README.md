@@ -85,7 +85,8 @@
 
 ### 🖥️ OS
 - 💻 Windows
-
+- 🐧 Linux
+  
 ### 🤝 Soft Skills
 - 🧩 Problem Solving  
 - 📚 Self-Learning  
