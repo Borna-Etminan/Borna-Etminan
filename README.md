@@ -122,10 +122,12 @@ You can see all my Dataset's on my Kaggle acount and a summary of my Dataset's o
 
 ---
 ## 📜 Guides
-You can see my Guides here:
-- [Professional Git guide](https://github.com/Borna-Etminan/Guides)
-  - Most important commands of git you need
-  - very clean and easy to now even for who didn't work Git at past
+You can see my Guides here, I make guide about things I lean, and then I write them very simple and short:
+- [My Guides repo](https://github.com/Borna-Etminan/Guides)
+- Thing's my guides are about them:
+  - [🐧 Linux](https://github.com/Borna-Etminan/Guides/tree/main/Linux%20Guide)
+  - [⚙ Git](https://github.com/Borna-Etminan/Guides/tree/main/Git%20Guide)
+
 ---
 ## 📫 Contact me
 - ✉️ Email: borna.etminan34@gmail.com
@@ -134,3 +136,4 @@ You can see my Guides here:
 - 📘 Blog on Substack: https://substack.com/@bornaetminan
 
 ⭐️ If you find my projects interesting, feel free to star or follow!⭐️
+
