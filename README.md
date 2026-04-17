@@ -16,7 +16,8 @@
 - 🐍 Python  
 - 🎮 Scratch  
 - 🗄️ SQLite
-- 🐚 BASH  
+- 🐚 BASH
+- ⚙ C
 
 ### 🤖 AI & Special skills
 - 🗄️ Work with *Databases*
@@ -62,7 +63,7 @@
   - Kaggle Dataset Medals: [4 Bronze](https://www.kaggle.com/bornaetminan/datasets)
 
 ### ⌨️ Other Skills
-- ⚡ Ten-Finger Typing (Record: **72 WPM**) 
+- ⚡ Ten-Finger Typing (Record: **78 WPM**) 
 - 🧾 ICDL Seven Skills  
 
 ### 🔧IDE
