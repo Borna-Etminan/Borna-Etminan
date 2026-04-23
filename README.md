@@ -46,6 +46,7 @@
 - 📈 Seaborn
 - 🤖 Scikit-Learn
 - 🤖 Tensorflow & Keras
+- 🤖 PyTorch
 - 🎆 Tkinter
 - 🗂 Sqlite3
  
