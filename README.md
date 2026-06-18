@@ -19,7 +19,7 @@
 - 🐚 BASH
 - ⚙ C
 
-### 🤖 AI & Special skills
+### 🤖 AI skills
 - 🗄️ Work with *Databases*
 - 🎲 Data Science
 - 🗂 Data Analysis
@@ -37,9 +37,17 @@
   - RNNs
   - Autoecoders
 - ⌨️ Prompt Engineering
-- ⚙ Version Control Mindset
 
-### 📊 Specialized libraries for Data Science & ML & Python
+
+### ⚙ Other Special Skills
+- ⚙ Version Control Mindset
+- 📗 Book Writing
+- 👾 Controlled Vibe Coding
+- ⚙ Work Binary in C
+- ⚡ Ten-Finger Typing (Record: **79 WPM**) 
+- 🧾 ICDL Seven Skills
+
+### 📊 Special Python Libraries
 - 🧮 Pandas
 - 🧮 NumPy  
 - 📈 Matplotlib
@@ -49,6 +57,7 @@
 - 🤖 PyTorch
 - 🎆 Tkinter
 - 🗂 Sqlite3
+- 💻 auto-py-to-exe
  
 ### 🛠 Tools & Platforms
 - 🔧 GitHub & GitHub Desktop
@@ -62,10 +71,6 @@
     - [Dataset Expert](https://www.kaggle.com/bornaetminan)
   - Kaggle Code Medals: [32 Bronze](https://www.kaggle.com/bornaetminan/code)
   - Kaggle Dataset Medals: [4 Bronze](https://www.kaggle.com/bornaetminan/datasets)
-
-### ⌨️ Other Skills
-- ⚡ Ten-Finger Typing (Record: **79 WPM**) 
-- 🧾 ICDL Seven Skills  
 
 ### 🔧IDE
 - 💻 Pycharm
@@ -94,6 +99,9 @@
 - 📚 Self-Learning  
 - 🔍 Analytical Thinking
 - 💪 Growth In Unstable Conditions
+- 👨‍🏫 Teaching clearlly
+- 🔁 Communication
+- 🌊 Adaptability
 
 ---
 ## 📌 Achievements & Certificates
