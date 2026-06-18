@@ -5,11 +5,11 @@
 - 🤖 Building practical tools with Python & Data & Models
 ---
 ## 🧑‍💻 About me
-- 🎓 Student interested in programming and technology
-- 💻 Interested in data science
-- 📚 Always learning and experiencing new things 
+- 🎓 Programmer interested in hard, big and new Projects
+- 💻 Interested in Teaching programming to students
+- 📚 Always learning and experiencing new things
 - 🌟 Passionate about problem-solving and open-source contributions
-- 🌍 Love projects: Open Source & Collaboration  
+- 🌍 Love Making and Leadering Teams & Collaboration
 ---
 ## 🛠 My skills
 ### 🧑‍💻 Programming Languages
