@@ -13,8 +13,9 @@
 ---
 ## 🛠 My skills
 ### 🧑‍💻 Programming Languages
+- 🎮 Scratch
+- 🔖 Markdown
 - 🐍 Python  
-- 🎮 Scratch  
 - 🗄️ SQLite
 - 🐚 BASH
 - ⚙ C
