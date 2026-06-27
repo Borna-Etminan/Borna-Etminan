@@ -6,104 +6,104 @@
 - 🤖 Building practical tools with Python & Data & Models
 ---
 ## 🧑‍💻 About me
-- 🎓 Programmer interested in hard, big and new Projects
-- 💻 Interested in Teaching programming to students
 - 📚 Always learning and experiencing new things
-- 🌟 Passionate about problem-solving and open-source contributions
+- 💻 Interested in Teaching programming to students
 - 🌍 Love Making and Leadering Teams & Collaboration
+- 🎓 Programmer interested in hard, big and new Projects
+- 🌟 Passionate about problem-solving and open-source contributions
 ---
 ## 🛠 My skills
 ### 🧑‍💻 Programming Languages
+- ⚙ C
+- 🐚 BASH
+- 🗄️ SQLite
+- 🐍 Python  
 - 🎮 Scratch
 - 🔖 Markdown
-- 🐍 Python  
-- 🗄️ SQLite
-- 🐚 BASH
-- ⚙ C
 
 ### 🤖 AI skills
-- 🗄️ Work with *Databases*
 - 🎲 Data Science
 - 🗂 Data Analysis
 - 🧹 Data Cleaning
-- 📈 Feature Engineering
-- 📊 Data Visualization
-- 🧠 Machine Learning:
-  - Regression
-  - Classification
-  - Clustering
-- 📈 ML Explainability
 - 🧠 Deep Learning
-  - Neural Networks
   - CNNs
   - RNNs
   - Autoecoders
+  - Neural Networks
+- 🧠 Machine Learning:
+  - Regression
+  - Clustering
+  - Classification
+- 📈 ML Explainability
+- 📊 Data Visualization
 - ⌨️ Prompt Engineering
+- 📈 Feature Engineering
+- 🗄️ Work with *Databases*
 
 
 ### ⚙ Other Special Skills
-- ⚙ Version Control Mindset
 - 📗 Book Writing
-- 👾 Controlled Vibe Coding
 - ⚙ Work Binary in C
-- ⚡ Ten-Finger Typing (Record: **79 WPM**) 
 - 🧾 ICDL Seven Skills
+- ⚙ Version Control Mindset
+- 👾 Controlled Vibe Coding
+- ⚡ Ten-Finger Typing (Record: **79 WPM**) 
 
 ### 📊 Special Python Libraries
-- 🧮 Pandas
 - 🧮 NumPy  
-- 📈 Matplotlib
+- 🧮 Pandas
+- 🗂 Sqlite3
 - 📈 Seaborn
-- 🤖 Scikit-Learn
-- 🤖 Tensorflow & Keras
 - 🤖 PyTorch
 - 🎆 Tkinter
-- 🗂 Sqlite3
+- 📈 Matplotlib
+- 🤖 Scikit-Learn
 - 💻 auto-py-to-exe
+- 🤖 Tensorflow & Keras
  
 ### 🛠 Tools & Platforms
-- 🔧 GitHub & GitHub Desktop
 - ⚙ Git
+- 📊 Kaggle:
+  - Kaggle Tiers:
+    - [Dataset Expert](https://www.kaggle.com/bornaetminan)
+    - [Notebook Expert](https://www.kaggle.com/bornaetminan)
+  - Kaggle Code Medals: [32 Bronze](https://www.kaggle.com/bornaetminan/code)
+  - Kaggle Dataset Medals: [4 Bronze](https://www.kaggle.com/bornaetminan/datasets)
 - 📗 Substack
 - 📚 Khan Academy
 - 📚IBM Skills Build
-- 📊 Kaggle:
-  - Kaggle Tiers:
-    - [Notebook Expert](https://www.kaggle.com/bornaetminan)
-    - [Dataset Expert](https://www.kaggle.com/bornaetminan)
-  - Kaggle Code Medals: [32 Bronze](https://www.kaggle.com/bornaetminan/code)
-  - Kaggle Dataset Medals: [4 Bronze](https://www.kaggle.com/bornaetminan/datasets)
+- 🔧 GitHub & GitHub Desktop
 
 ### 🔧IDE
-- 💻 Pycharm
 - 💻 Spyder
 - 💻 VScode
-- 💻 Jupyter Notebook
-- 💻 Kaggle Notebook
+- 💻 Pycharm
 - 💻 Google Colab
-- 💻 IBM SkillsBuild Jupyter Lab
+- 💻 Kaggle Notebook
+- 💻 Jupyter Notebook
 - 💻 Harvard CS50 VScode 
+- 💻 IBM SkillsBuild Jupyter Lab
 
 ### 🔧CLI
 - 💻 CMD
-- 💻 PowerShell
 - 💻 Git Bash
+- 💻 PowerShell
 - 💻 Command Line In Jupyter Notebooks
-- 💻 Pycharm, VScode and Harvard VScode Terminal
 - 💻 Work with **.sh** and **.bat** files
+- 💻 Pycharm, VScode and Harvard VScode Terminal
 
 ### 🖥️ OS
-- 💻 Windows
 - 🐧 Linux
+- 💻 Windows
   
 ### 🤝 Soft Skills
-- 🧩 Problem Solving  
+- 🌊 Adaptability
 - 📚 Self-Learning  
+- 🔁 Communication
+- 🧩 Problem Solving  
+- 👨‍🏫 Teaching clearlly
 - 🔍 Analytical Thinking
 - 💪 Growth In Unstable Conditions
-- 👨‍🏫 Teaching clearlly
-- 🔁 Communication
-- 🌊 Adaptability
 
 ---
 ## 📌 Achievements & Certificates
@@ -123,28 +123,28 @@
 ---
 ## 📗 Blog's
 You can see all my Blog's on my Substack acount and a summary of my Blog's on my Blog's repo:
-- [Blog's documents on Github repo](https://github.com/Borna-Etminan/Blog-s)
 - [All of Blog's on Substack](https://substack.com/@bornaetminan)
+- [Blog's documents on Github repo](https://github.com/Borna-Etminan/Blog-s)
 
 ---
 ## 📰 Dataset's
 You can see all my Dataset's on my Kaggle acount and a summary of my Dataset's on my Datasets repo:
-- [Dataset's documnts on Github repo](https://github.com/Borna-Etminan/Dataset-s)
 - [All of Dataset's on Kaggle](https://www.kaggle.com/bornaetminan/datasets)
+- [Dataset's documnts on Github repo](https://github.com/Borna-Etminan/Dataset-s)
 
 ---
 ## 📜 Guides
 You can see my Guides here, I make guide about things I lean, and then I write them very simple and short:
 - [My Guides repo](https://github.com/Borna-Etminan/Guides)
 - Thing's my guides are about them:
-  - [🐧 Linux](https://github.com/Borna-Etminan/Guides/tree/main/Linux%20Guide)
   - [⚙ Git](https://github.com/Borna-Etminan/Guides/tree/main/Git%20Guide)
+  - [🐧 Linux](https://github.com/Borna-Etminan/Guides/tree/main/Linux%20Guide)
 
 ---
 ## 📫 Contact me
 - ✉️ Email: borna.etminan34@gmail.com
-- ✉️ Kaggle username: https://www.kaggle.com/bornaetminan
 - ✉️ X acount: https://x.com/BornaEtminan
+- ✉️ Kaggle username: https://www.kaggle.com/bornaetminan
 - 📘 Blog on Substack: https://substack.com/@bornaetminan
 
 ⭐️ If you find my projects interesting, feel free to star or follow!⭐️
