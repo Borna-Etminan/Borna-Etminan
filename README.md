@@ -54,6 +54,7 @@
 - 🧮 Pandas
 - 🗂 Sqlite3
 - 🎆 Tkinter
+- 🎆 PySide6
 - 📈 Seaborn
 - 🤖 PyTorch
 - 📈 Matplotlib
