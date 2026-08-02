@@ -3,7 +3,8 @@
 ## and I'm **14** years old
 - 🤖 Building practical tools with Python & Data & Models
 - 🎓 Holder of international certificats from Harvard University, etc.
-- 🚀 **I work *Data Science | Machine Learning | Deep Learning | Python | SQL***  
+- 🚀 **I work *Data Science | Machine Learning | Deep Learning | Python | SQL***
+- 🎓 **Official member of Harvard University's CS50 team in Iran branch**
 ---
 ## 🧑‍💻 About me
 - 📚 Always learning and experiencing new things
@@ -120,6 +121,13 @@
 - 🎓 [IBM Deep Learning with TensorFlow (2026)-Final Score: 95%](https://courses.yl-ptech.skillsnetwork.site/certificates/c0a6fba662be4e45a545ab2b959b1066) - TensorFlow, NN, CNNs, RNNs, RBMs, Autoecoders
 - 🎓 [IBM Data Visualization with Python (2025)-Final Score: 80%](https://courses.yl-ptech.skillsnetwork.site/certificates/9c4123c94ddb46009a5b30a339fafaa7) – Matplotlib, Seaborn, Plotly, Data Analysis, Dashboards  
 - 🎓 [IBM Data Analysis with Python (2025)-Final Score: 93%](https://courses.yl-ptech.skillsnetwork.site/certificates/0d5f112a5a5b42adab689f53598b55ea) – Pandas, Numpy, Matplotlib, Seaborn, Data Cleaning & Visualization  
+
+---
+## 🎓 Harvard University
+I collaborated with CS50X PERSIAN, Harvard University's official team for Persian speakers, to package several of their courses to help Persian speakers take this course more easily.
+- CS50 SQL
+  - [CS50 Website page](https://cs50xpersian.ir/product/%d8%af%d9%88%d8%b1%d9%87-%d8%b5%d9%81%d8%b1%d8%aa%d8%a7%d8%b5%d8%af-%d9%be%d8%a7%db%8c%da%af%d8%a7%d9%87-%d8%af%d8%a7%d8%af%d9%87-cs50sql/)
+  - [Github Repo for describe this course](https://github.com/Borna-Etminan/CS50_SQL)
 
 ---
 ## 📗 Blog's
