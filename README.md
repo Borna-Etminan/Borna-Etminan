@@ -62,7 +62,10 @@
 - 🤖 Scikit-Learn
 - 💻 auto-py-to-exe
 - 🤖 Tensorflow & Keras
- 
+
+### 📲 PCB Design Software
+- KiCad
+
 ### 🛠 Tools & Platforms
 - ⚙ Git
 - 📊 Kaggle:
