@@ -114,6 +114,7 @@
 ## 📌 Achievements & Certificates
 - 🎓 [CS50’s Introduction to Databases with SQL – Harvard (2025)-Final Score: 100%](https://cs50.harvard.edu/certificates/45b4b2cc-31f3-4c4c-99ec-2135de608d77) – SQLite, Indexing, Transactions, Optimization
 - 🎓 [CS50’s Programming with Python – Harvard (2025)-Final Score: 100%](https://cs50.harvard.edu/certificates/2be2f991-3d16-43bb-84ca-8f97a6787d58) – Python Basics, OOP, File I/O, Libraries, Unit Testing, Regex
+- 🎓 [CS50’s Introduction to Computer Science – Harvard (2025)-Final Score: 100%](https://cs50.harvard.edu/certificates/69cfa5a2-2e2e-44ca-b45e-cd65aa230e8d) – Scratch, C, Python, SQL, HTML, CSS, JS, Flask
 - 🎓 [Scratch Programming Certificate (2025)-Final Score: 100%](./certificates/Scratch_certificate.jpg) – Interactive Games, Animations, Basic Programming Concepts
 - 🎓 [Kaggle Intermediate Machine Learning (2025)-Final Score: 100%](https://www.kaggle.com/learn/certification/bornaetminan/intermediate-machine-learning) – Missing Values,  Pipelines, Cross-Validation, XGBoost
 - 🎓 [Kaggle Intro to Machine Learning (2025)-Final Score: 100%](https://www.kaggle.com/learn/certification/bornaetminan/intro-to-machine-learning) – Decision Trees, Random Forests, Basic Feature Engineering
