@@ -5,6 +5,7 @@
 - 🎓 Holder of international certificats from Harvard University, etc.
 - 🚀 **I work *Data Science | Machine Learning | Deep Learning | Python | SQL***
 - 🎓 **Official member of Harvard University's CS50 team in Iran branch**
+- 🚀 **Owner and main Admin of [CS50X Persian](https://github.com/cs50-persian) Github Account one of official Team of Harvard University CS50**
 ---
 ## 🧑‍💻 About me
 - 📚 Always learning and experiencing new things
