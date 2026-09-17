@@ -113,9 +113,10 @@
 
 ---
 ## 📌 Achievements & Certificates
+- 🎓 [CS50's Introduction to CyberSecurity – Harvard (2026)-Final Score: 100%](https://cs50.harvard.edu/certificates/13c7bc50-802a-42d3-860f-7a88ea64da27) - Security Accounts, Data, System, Software
 - 🎓 [CS50’s Introduction to Databases with SQL – Harvard (2025)-Final Score: 100%](https://cs50.harvard.edu/certificates/45b4b2cc-31f3-4c4c-99ec-2135de608d77) – SQLite, Indexing, Transactions, Optimization
 - 🎓 [CS50’s Programming with Python – Harvard (2025)-Final Score: 100%](https://cs50.harvard.edu/certificates/2be2f991-3d16-43bb-84ca-8f97a6787d58) – Python Basics, OOP, File I/O, Libraries, Unit Testing, Regex
-- 🎓 [CS50’s Introduction to Computer Science – Harvard (2025)-Final Score: 100%](https://cs50.harvard.edu/certificates/69cfa5a2-2e2e-44ca-b45e-cd65aa230e8d) – Scratch, C, Python, SQL, HTML, CSS, JS, Flask
+- 🎓 [CS50’s Introduction to Computer Science – Harvard (2026)-Final Score: 100%](https://cs50.harvard.edu/certificates/69cfa5a2-2e2e-44ca-b45e-cd65aa230e8d) – Scratch, C, Python, SQL, HTML, CSS, JS, Flask
 - 🎓 [Scratch Programming Certificate (2025)-Final Score: 100%](./certificates/Scratch_certificate.jpg) – Interactive Games, Animations, Basic Programming Concepts
 - 🎓 [Kaggle Intermediate Machine Learning (2025)-Final Score: 100%](https://www.kaggle.com/learn/certification/bornaetminan/intermediate-machine-learning) – Missing Values,  Pipelines, Cross-Validation, XGBoost
 - 🎓 [Kaggle Intro to Machine Learning (2025)-Final Score: 100%](https://www.kaggle.com/learn/certification/bornaetminan/intro-to-machine-learning) – Decision Trees, Random Forests, Basic Feature Engineering
@@ -133,6 +134,12 @@ I collaborated with CS50X PERSIAN, Harvard University's official team for Persia
 - CS50 SQL
   - [CS50 Website page](https://cs50xpersian.ir/product/%d8%af%d9%88%d8%b1%d9%87-%d8%b5%d9%81%d8%b1%d8%aa%d8%a7%d8%b5%d8%af-%d9%be%d8%a7%db%8c%da%af%d8%a7%d9%87-%d8%af%d8%a7%d8%af%d9%87-cs50sql/)
   - [Github Repo for describe this course](https://github.com/Borna-Etminan/CS50_SQL)
+
+---
+## 📖 Book
+I wrote a book about python from start to OOP and I will very happy if you like that
+- [Fidibo link for bying Book](https://fidibo.com/book/195373-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%AC%D8%A7%D8%AF%D9%88%DB%8C-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C) 
+- [Book documents on Github repo](https://github.com/Borna-Etminan/Python-Book)
 
 ---
 ## 📗 Blog's
