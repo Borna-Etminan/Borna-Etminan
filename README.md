@@ -17,45 +17,36 @@
 * 🔷 **Professional: C | BASH | SQLite | Python | Scratch | Markdown**
 * 🔹 **Professional with VibeCoding: HTML | CSS | JavaScript | C++**
 
-### AI skills
-* **Professional: Data Cleaning | Prompt Engineering | Work with Databases**
-* **Professional with Vibecoding: Data Science | Data Visualization**
-
-### Other Special Skills
--  Book Writing
-- 🧾 ICDL Seven Skills
-- 👾 Controlled Vibe Coding
-- ⚡ Ten-Finger Typing (Record: **80 WPM**) 
+### 🤖 AI skills
+* 🔷 **Professional: Data Cleaning | Prompt Engineering | Work with Databases**
+* 🔹 **Professional with Vibecoding: Data Science | Data Visualization**
 
 ### 📊 Special Libraries
-* **Professional: Sqlite3 | Tkinter | PySide6 | Pyinstaller | auto-py-to-exe**
-* **Professional with Vibecoding: NumPy | Pandas | Matplotlib**
+* 🔷 **Professional: Sqlite3 | Tkinter | PySide6 | Pyinstaller | auto-py-to-exe**
+* 🔹 **Professional with Vibecoding: NumPy | Pandas | Matplotlib**
 
-### 📲 PCB Design Software
-- KiCad
+### ⛏ Other Skills
+* 📖 Book Writing
+* 🧾 ICDL Seven Skills
+* 👾 Controlled Vibe Coding
+* 🎮 Website Designing with Github Pages
+* ⚡ Ten-Finger Typing (Record: **80 WPM**) 
+
+### 💡 Electronic Skills
+* **PCB Software: KiCAD**
+* **Soldering SMD and DIP Components**
+* **Write code for PCBs with C & C++**
 
 ### 🛠 Tools & Platforms
-- ⚙ Git
-- 📊 Kaggle:
-  - Kaggle Tiers:
-    - [Dataset Expert](https://www.kaggle.com/bornaetminan)
-    - [Notebook Expert](https://www.kaggle.com/bornaetminan)
-  - Kaggle Code Medals: [32 Bronze](https://www.kaggle.com/bornaetminan/code)
-  - Kaggle Dataset Medals: [4 Bronze](https://www.kaggle.com/bornaetminan/datasets)
-- 📗 Substack
-- 📚 Khan Academy
-- 📚IBM Skills Build
-* **GitHub & GitHub Desktop & Github Pages**
+* **Blog Writing on *Substack***
+* **Website Designing with *Github Pages* | *JS-HTML-CSS***
+* **Learning things with *Khan Academy* | *Harvard CS50* | *IBM Skills Build***
+* **Kaggle: Dataset Expert with 4 Bronze medals | Notebook Expert with 32 Bronze medals**
+* **Making Resume and Managing Academic and Industrial Account with *Github* | *Github Desktop***
 
 ### 🔧IDE
-- 💻 Spyder
-- 💻 VScode
-- 💻 Pycharm
-- 💻 Google Colab
-- 💻 Kaggle Notebook
-- 💻 Jupyter Notebook
-- 💻 Harvard CS50 VScode 
-- 💻 IBM SkillsBuild Jupyter Lab
+* 🔷 **Offline IDEs: Spyder | Pycharm | VScode | Jupyter Notebook**
+* 🔷 **Online IDEs: Google Colab | Kaggle Notebook | Harvard CS50 VScode | IBM SkillsBuild Jupyter Lab**
 
 ### 🔧CLI
 - 💻 CMD
