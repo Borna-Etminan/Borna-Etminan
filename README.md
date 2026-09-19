@@ -14,7 +14,7 @@
  
 ---
 ### 👾 Programming Languages: 
-* 🔷 **Professional: C | BASH | SQLite | Python | Scratch | Markdown**
+* 🔷 Professional: **C | BASH | SQLite | Python | Scratch | Markdown**
 * 🔹 **Professional with VibeCoding: HTML | CSS | JavaScript | C++**
 
 ### 🤖 AI skills
