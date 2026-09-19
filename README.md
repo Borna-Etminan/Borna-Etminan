@@ -3,23 +3,23 @@
 ## and I'm **14** years old
 * **I work *C | Electronic | KiCAD | Github Pages | Python | SQL***
 * **Official member of Harvard University's CS50 team in Iran branch**
-* **Owner of [Fartoos Company](https://github.com/fartoos-company) and Teacher & main Admin of [CS50X Persian](https://github.com/cs50-persian) Github Account one of official Team of Harvard University CS50**
+* **Owner of [Fartoos Company](https://github.com/fartoos-company)**
+* ** and Teacher & main Admin of [CS50X Persian](https://github.com/cs50-persian) Github Account one of official Team of Harvard University CS50**
  
 ---
-## About me
+## 😎 About me
 * Always learning and experiencing new things
 * Programmer interested in hard, big and new Projects
 * Passionate about problem-solving and open-source contributions
  
 ---
-## skills
-### Programming Languages: 
-* **professional: C | BASH | SQLite | Python | Scratch | Markdown**
-* **Perfessional with VibeCoding: HTML | CSS | JavaScript | C++**
+### 👾 Programming Languages: 
+* 🔷 **Professional: C | BASH | SQLite | Python | Scratch | Markdown**
+* 🔹 **Professional with VibeCoding: HTML | CSS | JavaScript | C++**
 
 ### AI skills
-* **Perfessional: Data Cleaning | Prompt Engineering | Work with Databases**
-* **Perfessional with Vibecoding: Data Science | Data Visualization**
+* **Professional: Data Cleaning | Prompt Engineering | Work with Databases**
+* **Professional with Vibecoding: Data Science | Data Visualization**
 
 ### Other Special Skills
 -  Book Writing
@@ -28,8 +28,8 @@
 - ⚡ Ten-Finger Typing (Record: **80 WPM**) 
 
 ### 📊 Special Libraries
-* **Perfessional: Sqlite3 | Tkinter | PySide6 | Pyinstaller | auto-py-to-exe**
-* **Perfessional with Vibecoding: NumPy | Pandas | Matplotlib**
+* **Professional: Sqlite3 | Tkinter | PySide6 | Pyinstaller | auto-py-to-exe**
+* **Professional with Vibecoding: NumPy | Pandas | Matplotlib**
 
 ### 📲 PCB Design Software
 - KiCad
