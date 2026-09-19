@@ -1,68 +1,35 @@
 ## Hi there 👋
 # I'm Borna Etminan 
 ## and I'm **14** years old
-- 🤖 Building practical tools with Python & Data & Models
-- 🎓 Holder of international certificats from Harvard University, etc.
-- 🚀 **I work *Data Science | Machine Learning | Deep Learning | Python | SQL***
-- 🎓 **Official member of Harvard University's CS50 team in Iran branch**
-- 🚀 **Owner and main Admin of [CS50X Persian](https://github.com/cs50-persian) Github Account one of official Team of Harvard University CS50**
+* **I work *C | Electronic | KiCAD | Github Pages | Python | SQL***
+* **Official member of Harvard University's CS50 team in Iran branch**
+* **Owner of [Fartoos Company](https://github.com/fartoos-company) and Teacher & main Admin of [CS50X Persian](https://github.com/cs50-persian) Github Account one of official Team of Harvard University CS50**
+ 
 ---
-## 🧑‍💻 About me
-- 📚 Always learning and experiencing new things
-- 💻 Interested in Teaching programming to students
-- 🌍 Love Making and Leadering Teams & Collaboration
-- 🎓 Programmer interested in hard, big and new Projects
-- 🌟 Passionate about problem-solving and open-source contributions
+## About me
+* Always learning and experiencing new things
+* Programmer interested in hard, big and new Projects
+* Passionate about problem-solving and open-source contributions
+ 
 ---
-## 🛠 My skills
-### 🧑‍💻 Programming Languages
-- ⚙ C
-- 🐚 BASH
-- 🗄️ SQLite
-- 🐍 Python  
-- 🎮 Scratch
-- 🔖 Markdown
+## skills
+### Programming Languages: 
+* **professional: C | BASH | SQLite | Python | Scratch | Markdown**
+* **Perfessional with VibeCoding: HTML | CSS | JavaScript | C++**
 
-### 🤖 AI skills
-- 🎲 Data Science
-- 🗂 Data Analysis
-- 🧹 Data Cleaning
-- 🧠 Deep Learning
-  - CNNs
-  - RNNs
-  - Autoecoders
-  - Neural Networks
-- 🧠 Machine Learning:
-  - Regression
-  - Clustering
-  - Classification
-- 📈 ML Explainability
-- 📊 Data Visualization
-- ⌨️ Prompt Engineering
-- 📈 Feature Engineering
-- 🗄️ Work with *Databases*
+### AI skills
+* **Perfessional: Data Cleaning | Prompt Engineering | Work with Databases**
+* **Perfessional with Vibecoding: Data Science | Data Visualization**
 
-
-### ⚙ Other Special Skills
-- 📗 Book Writing
-- ⚙ Work Binary in C
+### Other Special Skills
+-  Book Writing
 - 🧾 ICDL Seven Skills
 - 👾 Controlled Vibe Coding
-- ⚙ Version Control Mindset
 - ⚡ Ten-Finger Typing (Record: **80 WPM**) 
 
-### 📊 Special Python Libraries
-- 🧮 NumPy  
-- 🧮 Pandas
-- 🗂 Sqlite3
-- 🎆 Tkinter
-- 🎆 PySide6
-- 📈 Seaborn
-- 🤖 PyTorch
-- 📈 Matplotlib
-- 🤖 Scikit-Learn
-- 💻 auto-py-to-exe
-- 🤖 Tensorflow & Keras
+### 📊 Special Libraries
+* **Perfessional: Sqlite3 | Tkinter | PySide6 | Pyinstaller | auto-py-to-exe**
+* **Perfessional with Vibecoding: NumPy | Pandas | Matplotlib**
 
 ### 📲 PCB Design Software
 - KiCad
@@ -78,7 +45,7 @@
 - 📗 Substack
 - 📚 Khan Academy
 - 📚IBM Skills Build
-- 🔧 GitHub & GitHub Desktop
+* **GitHub & GitHub Desktop & Github Pages**
 
 ### 🔧IDE
 - 💻 Spyder
