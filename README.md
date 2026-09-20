@@ -1,94 +1,138 @@
 ## Hi there 👋
-
-# 🧧 Portfolio
-## what I done till now
-*  Making website for my company with Vibecoding - HTML - CSS - JavaScript - GithubPages: https://fartoos-company.github.io
-*  Teaching CS50SQL for persian speakers on CS50X-Persian [website link](https://cs50xpersian.ir/product/%d8%af%d9%88%d8%b1%d9%87-%d8%b5%d9%81%d8%b1%d8%aa%d8%a7%d8%b5%d8%af-%d9%be%d8%a7%db%8c%da%af%d8%a7%d9%87-%d8%af%d8%a7%d8%af%d9%87-cs50sql/)
-*  Writting Python the Magic of Programming Book for begginners [English Version](https://fidibo.com/book/196215-python) [Persian Version](https://fidibo.com/book/195373-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%AC%D8%A7%D8%AF%D9%88%DB%8C-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C)
-*  Manager of Harvard CS50X Persian Github Account
-*  Technical Manager of Fartoos Company and manager of [fartoos-company](https://github.com/fartoos-company) Github Account
-
----
-
-# 🧧 Resume
-## I'm Borna Etminan 
+# I'm Borna Etminan 
 ## and I'm **14** years old
-* **I work *C | Electronic | KiCAD | Github Pages | Python | SQL***
-* **Official member of Harvard University's CS50 team in Iran branch**
-* **Technical Manager of [Fartoos Company](https://github.com/fartoos-company)**
-* ** and Teacher & main Admin of [CS50X Persian](https://github.com/cs50-persian) Github Account one of official Team of Harvard University CS50**
- 
+* ⚒ **I work *C | Electronic | KiCAD | Github Pages | Python | SQL***
+* 🎓 **Official member of Harvard University's CS50 team in Iran branch**
+* 👨‍💼 **Technical Manager of [Fartoos Company](https://github.com/fartoos-company)**
+* 🎓 **Teacher & main Admin of [CS50X Persian](https://github.com/cs50-persian) Github Account one of official Team of Harvard University CS50**
+
 ---
-## 😎 About me
-* Always learning and experiencing new things
-* Programmer interested in hard, big and new Projects
-* Passionate about problem-solving and open-source contributions
- 
+## 🧑‍💻 About me
+* 📚 Always learning and experiencing new things
+* 💻 Interested in Teaching programming to students
+* 🌍 Love Making and Leadering Teams & Collaboration
+* 🎓 Programmer interested in hard, big and new Projects
+* 🌟 Passionate about problem-solving and open-source contributions
+
 ---
-### 👾 Programming Languages: 
-* 🔷 Professional: **C | BASH | SQLite | Python | Scratch | Markdown**
-* 🔹 Professional with VibeCoding: **HTML | CSS | JavaScript | C++**
+## 🛠 My skills
+### 🧑‍💻 Programming Languages
+* C
+* BASH
+* SQLite
+* Python  
+* Scratch
+* Markdown
+* C++ (with Vibecoding)
+* CSS (with Vibecoding)
+* HTML (with Vibecoding)
+* JavaScript (with Vibecoding)
+
 
 ### 🤖 AI skills
-* 🔷 Professional: **Data Cleaning | Prompt Engineering | Work with Databases**
-* 🔹 Professional with Vibecoding: **Data Science | Data Visualization**
+- 🎲 Data Science
+- 🗂 Data Analysis
+- 🧹 Data Cleaning
+- 🧠 Deep Learning
+  - CNNs
+  - RNNs
+  - Autoecoders
+  - Neural Networks
+- 🧠 Machine Learning:
+  - Regression
+  - Clustering
+  - Classification
+- 📈 ML Explainability
+- 📊 Data Visualization
+- ⌨️ Prompt Engineering
+- 📈 Feature Engineering
+- 🗄️ Work with *Databases*
 
-### 📊 Special Libraries
-* 🔷 Professional: **Sqlite3 | Tkinter | PySide6 | Pyinstaller | auto-py-to-exe**
-* 🔹 Professional with Vibecoding: **NumPy | Pandas | Matplotlib**
 
-### ⛏ Other Skills
-* 📖 Book Writing
-* 🧾 ICDL Seven Skills
-* 👾 Controlled Vibe Coding
-* 🎮 Website Designing with Github Pages
-* ⚡ Ten-Finger Typing (Record: **80 WPM**) 
+### ⚙ Other Special Skills
+- 📗 Book Writing
+- ⚙ Work Binary in C
+- 🧾 ICDL Seven Skills
+- 👾 Controlled Vibe Coding
+- ⚙ Version Control Mindset
+- ⚡ Ten-Finger Typing (Record: **80 WPM**) 
 
-### 💡 Electronic Skills
-* **PCB Software: KiCAD**
-* **Soldering SMD and DIP Components**
-* **Write code for PCBs with C & C++**
+### 📊 Special Python Libraries
+- 🧮 NumPy  
+- 🧮 Pandas
+- 🗂 Sqlite3
+- 🎆 Tkinter
+- 🎆 PySide6
+- 📈 Seaborn
+- 🤖 PyTorch
+- 📈 Matplotlib
+- 🤖 Scikit-Learn
+- 💻 auto-py-to-exe
+- 🤖 Tensorflow & Keras
+
+### 📲 PCB Design Software
+- KiCad
 
 ### 🛠 Tools & Platforms
-* **Blog Writing on *Substack***
-* **Website Designing with *Github Pages* | *JS-HTML-CSS***
-* **Learning things with *Khan Academy* | *Harvard CS50* | *IBM Skills Build***
-* **Kaggle: Dataset Expert with 4 Bronze medals | Notebook Expert with 32 Bronze medals**
-* **Making Resume and Managing Academic and Industrial Account with *Github* | *Github Desktop***
+- ⚙ Git
+- 📊 Kaggle:
+  - Kaggle Tiers:
+    - [Dataset Expert](https://www.kaggle.com/bornaetminan)
+    - [Notebook Expert](https://www.kaggle.com/bornaetminan)
+  - Kaggle Code Medals: [32 Bronze](https://www.kaggle.com/bornaetminan/code)
+  - Kaggle Dataset Medals: [4 Bronze](https://www.kaggle.com/bornaetminan/datasets)
+- 📗 Substack
+- 📚 Khan Academy
+- 📚IBM Skills Build
+- 🔧 GitHub & GitHub Desktop
 
 ### 🔧IDE
-* 🔷 Offline IDEs: **Spyder | Pycharm | VScode | Jupyter Notebook**
-* 🔷 Online IDEs: **Google Colab | Kaggle Notebook | Harvard CS50 VScode | IBM SkillsBuild Jupyter Lab**
+- 💻 Spyder
+- 💻 VScode
+- 💻 Pycharm
+- 💻 Google Colab
+- 💻 Kaggle Notebook
+- 💻 Jupyter Notebook
+- 💻 Harvard CS50 VScode 
+- 💻 IBM SkillsBuild Jupyter Lab
 
 ### 🔧CLI
-* 🔷 Offline CLIs: **CMD | Git Bash | PowerShell | .sh & .bat files | VScode & Pycharm & Jupyter Terminal**
-* 🔷 Online CLIs: **Harvard VScode Terminal**
+- 💻 CMD
+- 💻 Git Bash
+- 💻 PowerShell
+- 💻 Work with **.sh** and **.bat** files
+- 💻 Command Line In Jupyter Notebooks
+- 💻 Pycharm, VScode and Harvard VScode Terminal
+
+### 🖥️ OS
+- 🐧 Linux
+- 💻 Windows
   
 ### 🤝 Soft Skills
 - 🌊 Adaptability
 - 📚 Self-Learning  
 - 🔁 Communication
 - 🧩 Problem Solving  
-- 👨‍🏫 Teaching clearly
+- 👨‍🏫 Teaching clearlly
 - 🔍 Analytical Thinking
 - 💪 Growth In Unstable Conditions
 
 ---
 ## 📌 Achievements & Certificates
-- 🎓 [Scratch Programming Certificate (2025)-Final Score: 100%](./certificates/Scratch_certificate.jpg)
-- 🎓 [CS50’s Programming with Python – Harvard (2025)-Final Score: 100%](https://cs50.harvard.edu/certificates/2be2f991-3d16-43bb-84ca-8f97a6787d58)
-- 🎓 [CS50's Introduction to CyberSecurity – Harvard (2026)-Final Score: 100%](https://cs50.harvard.edu/certificates/13c7bc50-802a-42d3-860f-7a88ea64da27)
-- 🎓 [CS50’s Introduction to Computer Science – Harvard (2026)-Final Score: 100%](https://cs50.harvard.edu/certificates/69cfa5a2-2e2e-44ca-b45e-cd65aa230e8d)
-- 🎓 [CS50’s Introduction to Databases with SQL – Harvard (2025)-Final Score: 100%](https://cs50.harvard.edu/certificates/45b4b2cc-31f3-4c4c-99ec-2135de608d77)
-- 🎓 [Kaggle intro to Deep Learning (2026)-Final Score: 100%](https://www.kaggle.com/learn/certification/bornaetminan/intro-to-deep-learning)
-- 🎓 [Kaggle Intro to Machine Learning (2025)-Final Score: 100%](https://www.kaggle.com/learn/certification/bornaetminan/intro-to-machine-learning)
-- 🎓 [Kaggle Intermediate Machine Learning (2025)-Final Score: 100%](https://www.kaggle.com/learn/certification/bornaetminan/intermediate-machine-learning)
-- 🎓 [Kaggle Machine Learning Explanability (2026)-Final Score: 100%](https://www.kaggle.com/learn/certification/bornaetminan/machine-learning-explainability)
-- 🎓 [IBM Python for Data Science (2025)-Final Score: 96%](https://courses.yl-ptech.skillsnetwork.site/certificates/009cb35d792540259af6b25e960230dd)
-- 🎓 [IBM Data Analysis with Python (2025)-Final Score: 93%](https://courses.yl-ptech.skillsnetwork.site/certificates/0d5f112a5a5b42adab689f53598b55ea)
-- 🎓 [IBM Machine Learning with Python (2025)-Final Score: 100%](https://courses.yl-ptech.skillsnetwork.site/certificates/213541ca87a643408844a9944c7c4c01)
-- 🎓 [IBM Deep Learning with TensorFlow (2026)-Final Score: 95%](https://courses.yl-ptech.skillsnetwork.site/certificates/c0a6fba662be4e45a545ab2b959b1066)
-- 🎓 [IBM Data Visualization with Python (2025)-Final Score: 80%](https://courses.yl-ptech.skillsnetwork.site/certificates/9c4123c94ddb46009a5b30a339fafaa7)
+- 🎓 [CS50's Introduction to CyberSecurity – Harvard (2026)-Final Score: 100%](https://cs50.harvard.edu/certificates/13c7bc50-802a-42d3-860f-7a88ea64da27) - Security Accounts, Data, System, Software
+- 🎓 [CS50’s Introduction to Databases with SQL – Harvard (2025)-Final Score: 100%](https://cs50.harvard.edu/certificates/45b4b2cc-31f3-4c4c-99ec-2135de608d77) – SQLite, Indexing, Transactions, Optimization
+- 🎓 [CS50’s Programming with Python – Harvard (2025)-Final Score: 100%](https://cs50.harvard.edu/certificates/2be2f991-3d16-43bb-84ca-8f97a6787d58) – Python Basics, OOP, File I/O, Libraries, Unit Testing, Regex
+- 🎓 [CS50’s Introduction to Computer Science – Harvard (2026)-Final Score: 100%](https://cs50.harvard.edu/certificates/69cfa5a2-2e2e-44ca-b45e-cd65aa230e8d) – Scratch, C, Python, SQL, HTML, CSS, JS, Flask
+- 🎓 [Scratch Programming Certificate (2025)-Final Score: 100%](./certificates/Scratch_certificate.jpg) – Interactive Games, Animations, Basic Programming Concepts
+- 🎓 [Kaggle Intermediate Machine Learning (2025)-Final Score: 100%](https://www.kaggle.com/learn/certification/bornaetminan/intermediate-machine-learning) – Missing Values,  Pipelines, Cross-Validation, XGBoost
+- 🎓 [Kaggle Intro to Machine Learning (2025)-Final Score: 100%](https://www.kaggle.com/learn/certification/bornaetminan/intro-to-machine-learning) – Decision Trees, Random Forests, Basic Feature Engineering
+- 🎓 [Kaggle intro to Deep Learning (2026)-Final Score: 100%](https://www.kaggle.com/learn/certification/bornaetminan/intro-to-deep-learning) - NN, Overfitting & Underfitting, Dropout, Early Stopping, TensorFlow
+- 🎓 [Kaggle Machine Learning Explanability (2026)-Final Score: 100%](https://www.kaggle.com/learn/certification/bornaetminan/machine-learning-explainability) – Model Interpretability, SHAP Values, Permutation Importance
+- 🎓 [IBM Python for Data Science (2025)-Final Score: 96%](https://courses.yl-ptech.skillsnetwork.site/certificates/009cb35d792540259af6b25e960230dd) – Data Analysis, Pandas, Numpy, Visualization, APIs  
+- 🎓 [IBM Machine Learning with Python (2025)-Final Score: 100%](https://courses.yl-ptech.skillsnetwork.site/certificates/213541ca87a643408844a9944c7c4c01) – Regression, Classification, Clustering, Scikit-Learn
+- 🎓 [IBM Deep Learning with TensorFlow (2026)-Final Score: 95%](https://courses.yl-ptech.skillsnetwork.site/certificates/c0a6fba662be4e45a545ab2b959b1066) - TensorFlow, NN, CNNs, RNNs, RBMs, Autoecoders
+- 🎓 [IBM Data Visualization with Python (2025)-Final Score: 80%](https://courses.yl-ptech.skillsnetwork.site/certificates/9c4123c94ddb46009a5b30a339fafaa7) – Matplotlib, Seaborn, Plotly, Data Analysis, Dashboards  
+- 🎓 [IBM Data Analysis with Python (2025)-Final Score: 93%](https://courses.yl-ptech.skillsnetwork.site/certificates/0d5f112a5a5b42adab689f53598b55ea) – Pandas, Numpy, Matplotlib, Seaborn, Data Cleaning & Visualization  
 
 ---
 ## 🎓 Harvard University
@@ -122,7 +166,7 @@ You can see my Guides here, I make guide about things I lean, and then I write t
 - Thing's my guides are about them:
   - [⚙ Git](https://github.com/Borna-Etminan/Guides/tree/main/Git%20Guide)
   - [🐧 Linux](https://github.com/Borna-Etminan/Guides/tree/main/Linux%20Guide)
- 
+
 ---
 ## 📫 Contact me
 - ✉️ Email: borna.etminan34@gmail.com
@@ -131,4 +175,3 @@ You can see my Guides here, I make guide about things I lean, and then I write t
 - 📘 Blog on Substack: https://substack.com/@bornaetminan
 
 ⭐️ If you find my projects interesting, feel free to star or follow!⭐️
-
