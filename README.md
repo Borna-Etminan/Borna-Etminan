@@ -72,6 +72,7 @@
 * 💻 Spyder
 * 💻 VScode
 * 💻 Pycharm
+* 💻 One Compiler 
 * 💻 Google Colab
 * 💻 Kaggle Notebook
 * 💻 Jupyter Notebook
