@@ -114,6 +114,21 @@
 * 🎓 [CS50’s Introduction to Databases with SQL – Harvard (2025)-Final Score: 100%](https://cs50.harvard.edu/certificates/45b4b2cc-31f3-4c4c-99ec-2135de608d77)
 
 ---
+# 〽 Github States
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Borna-Etminan&show_icons=true&theme=tokyonight&hide_boarder=true" alt="Github State" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borna-Etminan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Borna-Etminan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 ## 🎓 Harvard University
 I collaborated with CS50X PERSIAN, Harvard University's official team for Persian speakers, to package several of their courses to help Persian speakers take this course more easily.
 * CS50x Persian Github Account (I'm main admin of official account for CS50 Persian)
