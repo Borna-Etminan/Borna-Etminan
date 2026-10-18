@@ -17,13 +17,13 @@
 ---
 ## 🛠 My skills
 ### 🧑‍💻 Programming Languages
-* C
+* C++
 * BASH
 * SQLite
 * Python  
 * Scratch
 * Markdown
-* C++ (with Vibecoding)
+* C (with Vibecoding)
 * CSS (with Vibecoding)
 * HTML (with Vibecoding)
 * JavaScript (with Vibecoding)
@@ -171,7 +171,9 @@ You can see my Guides here, I make guide about things I lean, and then I write t
 
 ---
 ## 📫 Contact me
+* 📞 Phone: +989183820252
 * ✉️ Email: borna.etminan34@gmail.com
+* 📱 Telegram: https//t.me/BornaEtminan
 * ✉️ X acount: https://x.com/BornaEtminan
 * ✉️ Kaggle username: https://www.kaggle.com/bornaetminan
 * 📘 Blog on Substack: https://substack.com/@bornaetminan
