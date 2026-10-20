@@ -167,13 +167,13 @@ You can see my Guides here, I make guide about things I lean, and then I write t
 * [My Guides repo](https://github.com/Borna-Etminan/Guides)
 * Thing's my guides are about them:
   * [⚙ Git](https://github.com/Borna-Etminan/Guides/tree/main/Git%20Guide)
-  * [🐧 Linux](https://github.com/Borna-Etminan/Guides/tree/main/Linux%20Guide)
+
 
 ---
 ## 📫 Contact me
 * 📞 Phone: +989183820252
 * ✉️ Email: borna.etminan34@gmail.com
-* 📱 Telegram: https//t.me/BornaEtminan
+* 📱 Telegram: https://t.me/BornaEtminan
 * ✉️ X acount: https://x.com/BornaEtminan
 * ✉️ Kaggle username: https://www.kaggle.com/bornaetminan
 * 📘 Blog on Substack: https://substack.com/@bornaetminan
