@@ -23,7 +23,6 @@
 * Python  
 * Scratch
 * Markdown
-* C (with Vibecoding)
 * CSS (with Vibecoding)
 * HTML (with Vibecoding)
 * JavaScript (with Vibecoding)
