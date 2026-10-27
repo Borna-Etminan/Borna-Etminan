@@ -41,7 +41,7 @@
 * 🧾 ICDL Seven Skills
 * 👾 Controlled Vibe Coding
 * 🎮 Website Designing with Github Pages
-* ⚡ Ten-Finger Typing (Record: **80 WPM**) 
+* ⚡ Ten-Finger Typing (Record: **81 WPM**) 
 
 
 ### 💡 Electronic Skills
@@ -51,16 +51,16 @@
 
 
 ### 🛠 Tools & Platforms
-* ✍ **Blog Writing on *Substack***
-* 🛠 **Website Designing with *<u>Github Pages</u>* | *<u>JS-HTML-CSS</u>***
-* 🏫 **Learning things with *<u>Khan Academy</u>* | *<u>Harvard CS50</u>* | *<u>IBM Skills Build</u>***
+* ✍ **Substack**
+* 🛠 **Git | Github | Github Desktop | Github Pages**
+* 🏫 **Khan Academy | Harvard CS50 | IBM Skills Build**
 * 👌 **[Kaggle](https://www.kaggle.com/bornaetminan): Dataset Expert with 4 Bronze medals | Notebook Expert with 32 Bronze medals**
-* 🧾 **Making Resume and Managing Academic and Industrial Account with *<u>Github</u>* | *<u>Github Desktop</u>***
 
 ### 📊 Special Python Libraries
 * 🗂 Sqlite3
 * 🎆 Tkinter
 * 🎆 PySide6
+* 💻 Pyinstaller
 * 💻 auto-py-to-exe
 * 🧮 NumPy (with Vibecoding)
 * 🧮 Pandas (with Vibecoding)
@@ -145,7 +145,8 @@ I collaborated with CS50X PERSIAN, Harvard University's official team for Persia
 ---
 ## 📖 Book
 I wrote a book about python from start to OOP and I will very happy if you like that
-* [Fidibo link for bying Book](https://fidibo.com/book/195373-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%AC%D8%A7%D8%AF%D9%88%DB%8C-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C) 
+* [Persian Mode Fidibo link for bying Book](https://fidibo.com/book/195373-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%AC%D8%A7%D8%AF%D9%88%DB%8C-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C)
+* [English Mode on Fidibo link for bying Book](https://fidibo.com/book/196215-python)
 * [Book documents on Github repo](https://github.com/Borna-Etminan/Python-Book)
 
 ---
@@ -165,7 +166,8 @@ You can see all my Dataset's on my Kaggle acount and a summary of my Dataset's o
 You can see my Guides here, I make guide about things I lean, and then I write them very simple and short:
 * [My Guides repo](https://github.com/Borna-Etminan/Guides)
 * Thing's my guides are about them:
-  * [⚙ Git](https://github.com/Borna-Etminan/Guides/tree/main/Git%20Guide)
+  * [⚙ Git Guide](https://github.com/Borna-Etminan/Guides/tree/main/Git%20Guide)
+  * [⚙ Github Guide](https://github.com/Borna-Etminan/Guides/tree/main/Github%20Guide)
 
 
 ---
