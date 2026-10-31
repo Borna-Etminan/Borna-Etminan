@@ -1,5 +1,5 @@
 ## Hi there 👋
-## and I'm **14** years old
+# I'm Borna Etminan
 * ⚒ **I work *C | Electronic | KiCAD | Github Pages | Python | SQL***
 * 🎓 **Official member of Harvard University's CS50 team in Iran branch**
 * 👨‍💼 **Technical Manager of [Fartoos Company](https://github.com/fartoos-company)**
