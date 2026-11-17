@@ -179,5 +179,5 @@ You can see my Guides here, I make guide about things I lean, and then I write t
 * 🌊 Olio Profile: https://olio.my/talent/Borna-Etminan
 * ✉️ Kaggle username: https://www.kaggle.com/bornaetminan
 * 📘 Blog on Substack: https://substack.com/@bornaetminan
-
+[![DevDex](https://devdex.tech/badge/Borna-Etminan)](https://devdex.tech/Borna-Etminan)
 ⭐️ If you find my projects interesting, feel free to star or follow!⭐️
