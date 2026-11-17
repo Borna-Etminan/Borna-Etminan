@@ -176,6 +176,7 @@ You can see my Guides here, I make guide about things I lean, and then I write t
 * ✉️ Email: borna.etminan34@gmail.com
 * 📱 Telegram: https://t.me/BornaEtminan
 * ✉️ X acount: https://x.com/BornaEtminan
+* 🌊 Olio Profile: https://olio.my/talent/Borna-Etminan
 * ✉️ Kaggle username: https://www.kaggle.com/bornaetminan
 * 📘 Blog on Substack: https://substack.com/@bornaetminan
 
