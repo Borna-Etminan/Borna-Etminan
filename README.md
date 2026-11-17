@@ -181,7 +181,7 @@ You can see my Guides here, I make guide about things I lean, and then I write t
 * 📘 Blog on Substack: https://substack.com/@bornaetminan
 
 
-[![DevDex](https://devdex.tech/badge/Borna-Etminan)](https://devdex.tech/Borna-Etminan)
+[![DevDex](https://devdex.tech/badge/Borna-Etminan)](https://devdex.tech/Borna-Etminan/about)
 
 
 ⭐️ If you find my projects interesting, feel free to star or follow!⭐️
