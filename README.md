@@ -54,7 +54,10 @@
 * ✍ **Substack**
 * 🛠 **Git | Github | Github Desktop | Github Pages**
 * 🏫 **Khan Academy | Harvard CS50 | IBM Skills Build**
-* 👌 **[Kaggle](https://www.kaggle.com/bornaetminan): Dataset Expert with 4 Bronze medals | Notebook Expert with 32 Bronze medals**
+* 👌 **[Kaggle](https://kaggle.com/bornaetminan):**
+  * "Kaggle NoteBook": ```Tear: Expert``` ```Bronz Medals: 33```
+  * "Kaggle Datasets": ```Tear: Expert``` ```Bronz Medals:  4```
+
 
 ### 📊 Special Python Libraries
 * 🗂 Sqlite3
